@@ -28,7 +28,7 @@
     @include container;
     @include clearfix;
     padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $arial-narrow;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -55,8 +55,8 @@
 }
 
 .masthead__menu-item {
-  font-size: 1.5rem;         // or 16px, 18px, etc.
-  color: #6a1b9a;             // normal state
+  font-size: 1.2rem;         // or 16px, 18px, etc.
+  color: #004080;             // normal state
   background-color: var(--global-bg-color);
   display: block;
   list-style-type: none;
@@ -68,11 +68,11 @@
   }
 
   a {
-    color: #6a1b9a; // ensure link uses your desired color
+    color: #004080; // ensure link uses your desired color
   }
 
   a:hover {
-    color: #007acc; // hover color
+    color: #004080; // hover color
   }
 }
 .masthead__menu-item:first-child {
