@@ -56,8 +56,8 @@
 
 .masthead__menu-item {
   font-size: 1.5rem;         // or 16px, 18px, etc.
-  color: #004080;             // normal state
-  background-color: #f4f4f4;
+  color: #6a1b9a;             // normal state
+  background-color: var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
@@ -68,7 +68,7 @@
   }
 
   a {
-    color: #333; // ensure link uses your desired color
+    color: #6a1b9a; // ensure link uses your desired color
   }
 
   a:hover {
