@@ -61,7 +61,7 @@
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #004080;             // normal state
   background-color: linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
-  display: inline-block;
+  display: block;
   list-style-type: none;
   white-space: nowrap;
 
