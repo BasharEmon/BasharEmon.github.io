@@ -132,7 +132,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $sans-serif-narrow;
   font-size: $type-size-4;
 }
 
@@ -248,7 +248,7 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal; // nowrap
   }
 
   a {
