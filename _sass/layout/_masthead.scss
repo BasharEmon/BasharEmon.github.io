@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%);    //var(--global-bg-color);
+  background: var(--global-bg-color);   //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); 
   height: fit-content;
   top: 0;
   width: 100%;
@@ -30,7 +30,7 @@
     @include container;
     @include clearfix;
     background-color: transparent;
-    padding: 0;   //0.2em .5em;
+    padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -60,13 +60,13 @@
 .masthead__menu-item {
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #004080;             // normal state
-  background-color: #004080;      //var(--global-bg-color);
+  background-color: linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
   display: inline-block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-    padding-right: 0; //2em;
+    padding-right: 2em;
     font-weight: 700;
   }
 
