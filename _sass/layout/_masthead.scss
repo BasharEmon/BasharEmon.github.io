@@ -60,7 +60,7 @@
 .masthead__menu-item {
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #004080;             // normal state
-  background-color: #004080 //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
+  background-color: #004080; //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
@@ -73,7 +73,7 @@
   a {
     //color: #004080; // ensure link uses your desired color
     display: inline;
-    background-color: transparent !important;
+    background-color: transparent;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
   }
