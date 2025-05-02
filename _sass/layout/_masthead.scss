@@ -29,7 +29,8 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 0.5em 1em;
+    background-color: transparent;
+    padding: 0.2em .5em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -71,6 +72,7 @@
 
   a {
     color: #004080; // ensure link uses your desired color
+    background-color: transparent;
   }
 
   a:hover {
