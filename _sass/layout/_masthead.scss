@@ -7,7 +7,7 @@
   background: #FF7F00; // linear-gradient(to right, #004080, var(--global-bg-color), #004080); //var(--global-bg-color);   //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); 
   height: fit-content;
   top: 0;
-  width: 150%;
+  width: 100%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
   -webkit-animation: intro 0.3s both;
@@ -30,7 +30,7 @@
     @include container;
     @include clearfix;
     background-color: #FF7F00; //linear-gradient(to right, #004080, var(--global-bg-color), #004080);
-    padding: 0.5em 1em;
+    padding: 0; //0.5em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -66,7 +66,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 0; //2em;
     font-weight: 700;
   }
 
