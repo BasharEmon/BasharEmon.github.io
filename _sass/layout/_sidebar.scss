@@ -36,7 +36,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $sidebar-link-max-width;
+    max-width: 420px; //$sidebar-link-max-width;
     padding-right: 0;
   }
 
@@ -53,6 +53,9 @@
     font-family: $sans-serif;
     font-size: $type-size-5;
     line-height: 1.5;
+    white-space: normal;
+    word-break: break-word;
+    overflow-wrap: break-word;
   }
 
   img {
