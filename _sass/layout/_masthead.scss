@@ -60,7 +60,7 @@
 .masthead__menu-item {
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #004080;             // normal state
-  background-color: var(--global-bg-color);
+  background-color: transparent;      //var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
