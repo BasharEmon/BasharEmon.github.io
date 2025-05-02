@@ -54,14 +54,18 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: flex; // ensure horizontal layout
+    flex-wrap: wrap; // allow wrapping if needed
+    background-color: inherit; // match masthead
+    width: 100%; // take full width
   }
 }
 
 .masthead__menu-item {
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #800080;             // not normal state, this is also hover color for some reason
-  background-color: #FF7F00; //linear-gradient(to right, #004080, var(--global-bg-color), #004080); //transparent; //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
-  display: inline-block;
+  background-color: inherit; //linear-gradient(to right, #004080, var(--global-bg-color), #004080); //transparent; //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
+  display: block;
   list-style-type: none;
   white-space: nowrap;
 
