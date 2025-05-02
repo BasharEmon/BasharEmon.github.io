@@ -59,12 +59,7 @@
     width: 100%;
   }
 }
-.sidebar li {
-  white-space: normal;        // allow text to wrap
-  word-break: normal;         // prevent breaking words
-  overflow-wrap: normal;      // wrap at natural points like spaces
-  line-height: 1.5;           // optional: adjust spacing between lines
-}
+
 .sidebar__right {
   margin-bottom: 1em;
 
