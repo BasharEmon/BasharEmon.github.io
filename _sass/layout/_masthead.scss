@@ -27,7 +27,7 @@
   }
 
   &__inner-wrap {
-    //@include container;
+    @include container;
     @include clearfix;
     background-color: #FF7F00; //linear-gradient(to right, #004080, var(--global-bg-color), #004080);
     padding: 0.5em 1em;
@@ -55,7 +55,7 @@
     clear: both;
     list-style-type: none;
     // display: flex; // ensure horizontal layout
-    background-color: #FF7F00; // match masthead
+    //background-color: #FF7F00; // match masthead
     //width: 100%; // take full width
   }
 }
@@ -75,7 +75,7 @@
 
   a {
     color: #FF7F00; // ensure link uses your desired color
-    background-color: #FF7F00;
+    // background-color: #FF7F00;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
   }
