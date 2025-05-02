@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: linear-gradient(to right, #004080, var(--global-bg-color), #004080); //var(--global-bg-color);   //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); 
+  background: #FF7F00; // linear-gradient(to right, #004080, var(--global-bg-color), #004080); //var(--global-bg-color);   //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); 
   height: fit-content;
   top: 0;
   width: 100%;
@@ -29,7 +29,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    background-color: inherit; //linear-gradient(to right, #004080, var(--global-bg-color), #004080);
+    background-color: #FF7F00; //linear-gradient(to right, #004080, var(--global-bg-color), #004080);
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
 
@@ -60,7 +60,7 @@
 .masthead__menu-item {
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #800080;             // not normal state, this is also hover color for some reason
-  background-color: inherit; //linear-gradient(to right, #004080, var(--global-bg-color), #004080); //transparent; //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
+  background-color: #FF7F00; //linear-gradient(to right, #004080, var(--global-bg-color), #004080); //transparent; //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
   display: inline-block;
   list-style-type: none;
   white-space: nowrap;
