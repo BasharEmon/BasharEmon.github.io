@@ -61,7 +61,7 @@
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #004080;             // normal state
   background-color: transparent;      //var(--global-bg-color);
-  display: block;
+  display: inline-block;
   list-style-type: none;
   white-space: nowrap;
 
@@ -72,7 +72,10 @@
 
   a {
     //color: #004080; // ensure link uses your desired color
-    background-color: transparent;
+    display: inline;
+    background-color: transparent !important;
+    padding: 0;  // reduce space that might appear as background
+    margin: 0;
   }
 
   a:hover {
