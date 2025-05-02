@@ -27,7 +27,7 @@
   }
 
   &__inner-wrap {
-    @include container;
+    //@include container;
     @include clearfix;
     background-color: #FF7F00; //linear-gradient(to right, #004080, var(--global-bg-color), #004080);
     padding: 0.5em 1em;
