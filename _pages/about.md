@@ -13,9 +13,9 @@ redirect_from:
     <td style="border:0; border-style:none;"><a href="/talks/">Talks</a></td>
     <td style="border:0; border-style:none;"><a href="/teaching/">Teaching</a></td>
     <td style="border:0; border-style:none;"><a href="/portfolio/">Portfolio</a></td>
-    <td style="border:0; border-style:none;"><a href="/Blog Posts/">Blog Posts</a></td>
+    <td style="border:0; border-style:none;"><a href="/posts/">Blog Posts</a></td>
     <td style="border:0; border-style:none;"><a href="/cv/">CV</a></td>
-    <td style="border:0; border-style:none;"><a href="/Guide/">Guide</a></td>
+    <td style="border:0; border-style:none;"><a href="/pages/">Guide</a></td>
   </tr>
 </table>
 
