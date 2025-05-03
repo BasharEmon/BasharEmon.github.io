@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<table style="width:120%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold;">
+<table style="width:120%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold">
   <tr>
-    <td><a href="/publications/">Publications</a></td>
-    <td><a href="/talks/">Talks</a></td>
-    <td><a href="/teaching/">Teaching</a></td>
-    <td><a href="/portfolio/">Portfolio</a></td>
-    <td><a href="/blog posts/">Blog Posts</a></td>
-    <td><a href="/cv/">CV</a></td>
-    <td><a href="/guide/">Guide</a></td>
+    <td style="border:0; border-style:none;"><a href="/publications/">Publications</a></td>
+    <td style="border:0; border-style:none;"><a href="/talks/">Talks</a></td>
+    <td style="border:0; border-style:none;"><a href="/teaching/">Teaching</a></td>
+    <td style="border:0; border-style:none;"><a href="/portfolio/">Portfolio</a></td>
+    <td style="border:0; border-style:none;"><a href="/blog posts/">Blog Posts</a></td>
+    <td style="border:0; border-style:none;"><a href="/cv/">CV</a></td>
+    <td style="border:0; border-style:none;"><a href="/guide/">Guide</a></td>
   </tr>
 </table>
 
