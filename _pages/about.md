@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <table style="width:120%; text-align:left;font-size:1.3em;font-weight:bold;">
-  <tr style="border:none;">
+  <tr>
     <td><a href="/publications/">Publications</a></td>
     <td><a href="/talks/">Talks</a></td>
     <td><a href="/teaching/">Teaching</a></td>
