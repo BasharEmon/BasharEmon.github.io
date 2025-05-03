@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<table style="width:120%; text-align:left;border-collapse:collapse; font-size:1.3em;font-weight:bold">
+<table style="width:120%; text-align:left;border-collapse:collapse; font-size:1.3em;font-weight:bold;border-color:transparent;">
   <tr>
     <td><a href="/publications/">Publications</a></td>
     <td><a href="/talks/">Talks</a></td>
