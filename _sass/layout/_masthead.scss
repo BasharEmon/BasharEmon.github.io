@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: none;
+  background: #6699cc;
   height: fit-content;
   top: 0;
   width: 100%;
@@ -28,11 +28,11 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    //display: flex;
+    display: flex;
     align-items: center;
     justify-content: space-between;
-    //padding: 0.5em 1em;
-    background-color: none;
+    padding: 0.5em 1em;
+    background-color: #6699cc;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -57,7 +57,7 @@
     clear: both;
     list-style-type: none;
     //display: flex; // ensure horizontal layout
-    background-color: none; // match masthead
+    background-color: #6699cc; // match masthead
     //width: 100%; // take full width
   }
 }
@@ -65,7 +65,7 @@
 .masthead__menu-item {
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #800080;             // not normal state, this is also hover color for some reason
-  background-color: none; 
+  background-color: #6699cc; 
   display: none;
   list-style-type: none;
   white-space: nowrap;
@@ -87,7 +87,7 @@
   }
 }
 .masthead__menu-item:first-child {
-  font-size: 2rem;  // or any size you want
+  font-size: 2.5rem;  // or any size you want
   color: #800080;
 }
 
