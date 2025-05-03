@@ -15,7 +15,7 @@ redirect_from:
     <td style="border:0; border-style:none;"><a href="/portfolio/">Portfolio</a></td>
     <td style="border:0; border-style:none;"><a href="/year-archive/">Blog Posts</a></td>
     <td style="border:0; border-style:none;"><a href="/cv/">CV</a></td>
-    <td style="border:0; border-style:none;"><a href="/pages/">Guide</a></td>
+    <td style="border:0; border-style:none;"><a href="/markdown/">Guide</a></td>
   </tr>
 </table>
 
