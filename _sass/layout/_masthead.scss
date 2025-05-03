@@ -88,3 +88,8 @@
   font-size: 2rem;  // or any size you want
   color: #800080;
 }
+.masthead__menu-toggle {
+  background-color: #FF7F00; // or use `inherit` if masthead has the right color
+  border: none;
+  color: #800080; // optional: make sure icon is visible
+}
