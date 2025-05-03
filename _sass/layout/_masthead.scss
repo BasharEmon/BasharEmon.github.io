@@ -4,12 +4,11 @@
 
 .masthead {
   position: fixed;
-  background: #FF7F00; // linear-gradient(to right, #004080, var(--global-bg-color), #004080); //var(--global-bg-color);   //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); 
+  background: none;
   height: fit-content;
   top: 0;
   width: 100%;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
+  
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -19,7 +18,7 @@
   &::after {
     content: "";
     position: absolute;
-    bottom: 0;
+    bottom: 20;
     height: 10px;
     background: var(--global-border-color);
     width: 100%;
@@ -29,8 +28,11 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    background-color: #FF7F00; //linear-gradient(to right, #004080, var(--global-bg-color), #004080);
-    padding: 0.5em 1em;
+    //display: flex;
+    align-items: center;
+    justify-content: space-between;
+    //padding: 0.5em 1em;
+    background-color: none;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -54,8 +56,8 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-    // display: flex; // ensure horizontal layout
-    background-color: #FF7F00; // match masthead
+    //display: flex; // ensure horizontal layout
+    background-color: none; // match masthead
     //width: 100%; // take full width
   }
 }
@@ -63,8 +65,8 @@
 .masthead__menu-item {
   font-size: 1.2rem;         // or 16px, 18px, etc.
   color: #800080;             // not normal state, this is also hover color for some reason
-  background-color: inherit; //linear-gradient(to right, #004080, var(--global-bg-color), #004080); //transparent; //linear-gradient(to right, transparent 5%, #004080 50%, transparent 95%); // var(--global-bg-color);
-  display: block;
+  background-color: none; 
+  display: none;
   list-style-type: none;
   white-space: nowrap;
 
@@ -74,8 +76,8 @@
   }
 
   a {
-    color: #FF7F00; // ensure link uses your desired color
-    // background-color: #FF7F00;
+    color: none; // ensure link uses your desired color
+    background-color: none;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
   }
@@ -88,4 +90,6 @@
   font-size: 2rem;  // or any size you want
   color: #800080;
 }
+
+
 
