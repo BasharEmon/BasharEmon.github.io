@@ -3,7 +3,7 @@ title: "A multifunctional sensor for cell traction force, matrix remodeling and 
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper presents detailed protocol for manufacturing a biomechanical micro-sensors, preparing experimental setup, developing assays with different tissues and for imaging and analyzing the data.'
+excerpt: 'This paper presents a detailed protocol for manufacturing a biomechanical micro-sensors, preparing experimental setup, developing assays with different tissues and for imaging and analyzing the data.'
 date: 2025-01-24
 venue: 'Nature Protocols'
 slidesurl: 
