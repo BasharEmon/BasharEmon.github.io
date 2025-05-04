@@ -84,19 +84,15 @@
 
   a:hover {
     color: #004080; // hover color, this does not function at all
-    text-decoration-color: #800080; // sets the underline color to purple
+    font-weight: bold; // or 700
   }
 }
 .masthead__menu-item:first-child {
   font-size: 2.5rem;  // or any size you want
   color: #800080;
    
-  a {
-  text-decoration: underline;
-  }
-   a:hover {
-    color: #800080; // hover color, this does not function at all
-    text-decoration-color: #800080; // sets the underline color to purple
+  a:hover {
+    font-weight: bold; // or 700
   }
 }
 
