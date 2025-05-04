@@ -18,7 +18,7 @@
   &::after {
     content: "";
     position: absolute;
-    bottom: 20;
+    bottom: 10;
     height: 10px;
     background: var(--global-border-color);
     width: 100%;
@@ -31,7 +31,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: -1em 1em;
+    //padding: .5em 1em;
     background-color: #6699cc;
     font-family: $sans-serif-narrow;
 
