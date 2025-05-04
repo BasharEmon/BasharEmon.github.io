@@ -76,7 +76,7 @@
   }
 
   a {
-    color: #f5f5dc !important; // ensure link uses your desired color
+    color: #ffffcc !important; // ensure link uses your desired color
     background-color: none;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
@@ -95,7 +95,7 @@
   justify-content: center; // works if flex item 
 
   a:hover {
-    font-weight: 750;
+    font-weight: 800;
     color: purple !important;
   }
 }
