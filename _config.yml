@@ -10,8 +10,8 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : |
-                            tumor MicroEnvironment Mechanics & Simulation
-                            tMEMS research
+                            tumor MicroEnvironment Mechanics & Simulation  
+                            (tMEMS)
 title_separator          : "-"
 name                     : &name "Bashar Emon"
 description              : &description "personal description"
