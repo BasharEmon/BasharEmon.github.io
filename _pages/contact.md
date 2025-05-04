@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Bashar Emon
+|
 2219 S 1st St Apt 304
 Champaign, Illinois 61820 
 United States 
