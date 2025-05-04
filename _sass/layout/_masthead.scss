@@ -31,7 +31,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0.5em 1em;
+    //padding: 0.5em 1em;
     background-color: #6699cc;
     font-family: $sans-serif-narrow;
 
@@ -77,7 +77,7 @@
 
   a {
     color: #333333 !important; // ensure link uses your desired color  #2f4f4f 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    //text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     background-color: none;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
@@ -97,7 +97,8 @@
 
   a:hover {
     font-weight: 750;
-    color: #eaeaea !important;
+    //color: #eaeaea !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 }
 
