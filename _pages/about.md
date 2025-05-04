@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  table a:hover {
+    color: purple;
+  }
+</style>
+
 <table style="width:120%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold">
   <tr>
     <td style="border:0; border-style:none;"><a href="/about/">Research/Home</a></td>
