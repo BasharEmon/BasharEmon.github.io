@@ -10,10 +10,10 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : |
-                            Tissue MicroEnvironment Mechanics & Simulation
-                            (T-MEMS)
+                            tumor/tissue MicroEnvironment Mechanics & Simulation
+                            tMEMS Lab
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Bashar Emon"
 description              : &description "personal description"
 url                      : https://BasharEmon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
