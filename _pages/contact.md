@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Dr. Bashar Emon  
-Mechanical Testing Instructional Laboratory 
+Mechanical Testing Instructional Laboratory  
 201 Talbot Lab  
 104 S. Wright Street  
 Urbana, IL 61801-2958  
