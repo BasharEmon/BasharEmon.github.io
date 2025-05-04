@@ -76,14 +76,14 @@
   }
 
   a {
-    color: #800080; // ensure link uses your desired color
-    background-color: #800080;
+    color: none; // ensure link uses your desired color
+    background-color: none;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
   }
 
   a:hover {
-    color: #004080; // hover color, this does not function at all
+    color: #800080; // hover color, this does not function at all
     font-weight: bold; // or 700
   }
 }
