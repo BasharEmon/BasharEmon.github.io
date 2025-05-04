@@ -7,7 +7,7 @@ excerpt: 'This paper presents detailed protocol for manufacturing a biomechanica
 date: 2025-01-24
 venue: 'Nature Protocols'
 slidesurl: 
-paperurl: 'http://BasharEmon.github.io/files/Nat. Prot..pdf'
+paperurl: 'http://BasharEmon.github.io/files/Nat Prot.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
