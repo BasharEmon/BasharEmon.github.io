@@ -9,11 +9,11 @@ redirect_from:
 
 <table style="width:120%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold">
   <tr>
+    <td style="border:0; border-style:none;"><a href="/about/">Research/Home</a></td>
     <td style="border:0; border-style:none;"><a href="/publications/">Publications</a></td>
     <td style="border:0; border-style:none;"><a href="/talks/">Talks</a></td>
     <td style="border:0; border-style:none;"><a href="/teaching/">Teaching</a></td>
     <td style="border:0; border-style:none;"><a href="/portfolio/">Portfolio</a></td>
-    <td style="border:0; border-style:none;"><a href="/year-archive/">Blog Posts</a></td>
     <td style="border:0; border-style:none;"><a href="/cv/">CV</a></td>
     <td style="border:0; border-style:none;"><a href="/contact/">Contact</a></td>
   </tr>
