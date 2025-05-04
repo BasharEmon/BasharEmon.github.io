@@ -76,7 +76,7 @@
   }
 
   a {
-    color: red !important; // ensure link uses your desired color
+    color: #ffd700 !important; // ensure link uses your desired color
     background-color: none;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
@@ -89,13 +89,13 @@
 }
 .masthead__menu-item:first-child {
   font-size: 2.5rem;  // or any size you want
-  color: blue !important;
+  //color: blue;
   text-align: center;
   width: 100%;         // ensure it can span full width
   justify-content: center; // works if flex item 
 
   a:hover {
-    font-weight: bold; // or 700
+    font-weight: 900;
     color: purple !important;
   }
 }
