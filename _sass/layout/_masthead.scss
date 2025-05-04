@@ -76,7 +76,8 @@
   }
 
   a {
-    color: none !important; // ensure link uses your desired color
+    color: #2f4f4f !important; // ensure link uses your desired color
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
     background-color: none;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
