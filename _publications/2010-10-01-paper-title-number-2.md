@@ -7,7 +7,7 @@ excerpt: 'This study revealed that colorectal cancer cell migration is dominated
 date: 2025-02-10
 venue: 'Scientific Reports'
 slidesurl: 
-paperurl: 'http://academicpages.github.io/files/Sci Rep 2025.pdf'
+paperurl: 'http://BasharEmon.github.io/files/Sci Rep 2025.pdf'
 citation: 'Tetrick, M.G., Emon, M.A.B., Doha, U. et al. Decoupling chemical and mechanical signaling in colorectal cancer cell migration. Sci Rep 15, 4952 (2025). https://doi.org/10.1038/s41598-025-89152-4'
 ---
 
