@@ -78,7 +78,7 @@
   a {
     color: #333333 !important; // ensure link uses your desired color  #2f4f4f 
     //text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-    background-color: var(--global-masthead-link-color-hover) !important;
+    //background-color: white !important;
     padding: 0;  // reduce space that might appear as background
     margin: 0;
   }
@@ -86,6 +86,7 @@
   a:hover {
     color: #800080 !important; // hover color, this does not function at all
     font-weight: bold; // or 700
+    background-color: white !important;
   }
 }
 .masthead__menu-item:first-child {
