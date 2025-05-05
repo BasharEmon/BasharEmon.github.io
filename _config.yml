@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "<u>M</u>echanics of bio<u>E</u>ngineered <u>M</u>icro-<u>S</u>ystems<br><span style='font-size: 1000; color: #3d3d85;'>MEMS</span>"
+title                    : "<u>M</u>echanics of bio<u>E</u>ngineered <u>M</u>icro-<u>S</u>ystems<br><span style='font-size: 1000; color: 	#182c40;'>MEMS</span>"
                           # Mechanics of bioEngineered Micro-Systems     
                           # MEMS
                           # Tissue MicroEnvironment Mechanics & Simulation (Ti-MEMS)
