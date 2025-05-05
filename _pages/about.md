@@ -15,7 +15,7 @@ redirect_from:
 
 <table style="width:100%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold">
   <tr>
-    <td style="border:0; border-style:none;"><a href="/about/">Home/Research</a></td>
+    <td style="border:0; border-style:none;"><a href="/about/">Research</a></td>
     <td style="border:0; border-style:none;"><a href="/publications/">Publications</a></td>
     <td style="border:0; border-style:none;"><a href="/talks/">Talks</a></td>
     <td style="border:0; border-style:none;"><a href="/teaching/">Teaching</a></td>
