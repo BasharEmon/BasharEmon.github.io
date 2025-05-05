@@ -9,10 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : |
-                            Micromechanics of bioEngineered Models & Systems
-                            MEMS Research
-                            #Tissue MicroEnvironment Mechanics & Simulation (Ti-MEMS)
+title                    : "Micromechanics of bioEngineered Model Systems  
+                           MEMS Research"
+                          # Tissue MicroEnvironment Mechanics & Simulation (Ti-MEMS)
                             
 title_separator          : "-"
 name                     : &name "Bashar Emon"
