@@ -86,7 +86,7 @@
   a:hover {
     color: #800080 !important; // hover color, this does not function at all
     font-weight: bold; // or 700
-    background-color: white !important;
+    background-color: var(--global-bg-color) !important;
   }
 }
 .masthead__menu-item:first-child {
@@ -100,6 +100,7 @@
     font-weight: 750;
     color: #333333 !important;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background-color: #6699cc !important;
   }
 }
 
