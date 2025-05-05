@@ -32,7 +32,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 1em;
-    background-color: #6699cc;
+    background-color: red//#6699cc;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
