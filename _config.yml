@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "<u>M</u>echanics of bio<u>E</u>ngineered <u>M</u>icro-<u>S</u>ystems<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>MEMS</span>"
                           # Mechanics of bioEngineered Micro-Systems     
-                          # MEMS
+                          # MEMS  or Med-MEMS ?? 
                           # Tissue MicroEnvironment Mechanics & Simulation (Ti-MEMS)
                                  # "Mechanics of Engineered μ-Models & Systems 
 title_separator          : "-"
