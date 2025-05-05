@@ -20,7 +20,7 @@
     position: absolute;
     bottom: 0;
     height: 10px;
-    background: red;//var(--global-border-color);
+    background: var(--global-border-color);
     width: 100%;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   }
@@ -32,8 +32,11 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 1em;
-    background-color: red//#6699cc;
+    background-color: #6699cc;
     font-family: $sans-serif-narrow;
+   
+    border: none !important;
+    box-shadow: none !important;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
