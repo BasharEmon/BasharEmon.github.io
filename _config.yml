@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mechanics of bioEngineered Micro-Systems"         # "Mechanics of Engineered μ-Models & Systems  
+title                    : "Mechanics of bioEngineered Micro-Systems   
                            MEMS"
                           # Tissue MicroEnvironment Mechanics & Simulation (Ti-MEMS)
-                            
+                                 # "Mechanics of Engineered μ-Models & Systems 
 title_separator          : "-"
 name                     : &name "Bashar Emon"
 description              : &description "personal description"
