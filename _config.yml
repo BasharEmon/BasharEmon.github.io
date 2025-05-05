@@ -9,8 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mechanics of bioEngineered Micro-Systems   
-                           MEMS"
+title                    : |
+                          Mechanics of bioEngineered Micro-Systems     
+                          MEMS
                           # Tissue MicroEnvironment Mechanics & Simulation (Ti-MEMS)
                                  # "Mechanics of Engineered μ-Models & Systems 
 title_separator          : "-"
