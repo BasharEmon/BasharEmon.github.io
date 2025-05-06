@@ -32,8 +32,8 @@ author:
   name             : "Bashar Emon, PhD"
   pronouns         : # example: "she/her"  
   bio              : "I explore mechanics within the tumor microenvironment."
-  location         : "Champaign, Illinois, USA"
-  employer         : "University of Illinois Urbana-Champaign" 
+  location         : "Champaign, Illinois<br>USA"
+  employer         : "University of Illinois<br>Urbana-Champaign" 
   uri              : # URL
   email            : "emon2@illinois.edu" 
 
