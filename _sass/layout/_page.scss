@@ -19,17 +19,10 @@
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include prefix(.5 of 12);
+    @include suffix(.5 of 12);
   }
 
-.page {
-    max-width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
 
   .page__inner-wrap {
     @include full();
