@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "<u>Ti</u>ssue <u>M</u>icro<u>E</u>nvironment <u>M</u>echanics & <u>S</u>imulation<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>Ti-MEMS</span>" 
+title                    : "∫ <u>M</u>echanics.<u>E</u>ngineering.<u>M</u>edicine = <u>S</u>olution<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>MEMS</span>"
+                          #"<u>Ti</u>ssue <u>M</u>icro<u>E</u>nvironment <u>M</u>echanics & <u>S</u>imulation<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>Ti-MEMS</span>" 
                           #"<u>M</u>echanics of bio<u>E</u>ngineered <u>M</u>icro-<u>S</u>ystems<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>MEMS</span>"
                           # Mechanics of bioEngineered Micro-Systems     
                           # MEMS  or Med-MEMS ?? 
