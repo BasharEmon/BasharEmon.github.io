@@ -1,7 +1,7 @@
 ---
 title: "A window into solid stresses within tumours"
 collection: publications
-category: Journal News & Views
+category: Journal
 permalink: /publication/Nat BME
 excerpt: ''
 date: 2023-11-09
