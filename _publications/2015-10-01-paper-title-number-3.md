@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper presents a detailed protocol for manufacturing a biomechanical micro-sensors, preparing experimental setup, developing assays with different tissues and for imaging and analyzing the data.'
 date: 2025-01-24
-venue: 'nature protocols'
+venue: 'Nature Protocols'
 slidesurl: 
 paperurl: 'http://BasharEmon.github.io/files/Nat Prot.pdf'
 citation: '<b>Emon, B.,</b> Joy, M.S.H., Drennan, W.C. et al. A multifunctional sensor for cell traction force, matrix remodeling and biomechanical assays in self-assembled 3D tissues in vitro. Nat Protoc (2025). https://doi.org/10.1038/s41596-024-01106-8'
