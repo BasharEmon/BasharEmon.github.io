@@ -1,5 +1,5 @@
 ---
-title: "High Traction Force Increases Activin Secretion to Promotes Cancer Cell Migration"
+title: "High Traction Force Increases Activin Secretion to Promote Cancer Cell Migration"
 collection: talks
 type: "Talk"
 permalink: /talks/MWTME_2022
