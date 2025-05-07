@@ -28,9 +28,6 @@ author_profile: true
 - [Bashar Named T32 Scholar by the Cancer Center at Illinois](https://mechanical.illinois.edu/news/bashar-named-t32-scholar-cancer-center-illinois)  
   *Awarded the NIH T32 TiMe training fellowship for cancer microenvironment research.*
 
-- [NIH TiMe Program Cohort Listing](http://cancer.illinois.edu/educational-programs/graduate/time-program/time-cohorts)  
-  *Listed as a TiMe Program scholar among distinguished NIH trainees.*
-
 - [Saif Lab Identifies T-Shirts as Potential Mask Material](https://mechanical.illinois.edu/news/saif-team-identifies-t-shirts-potential-mask-material)  
   *Collaborated on experimental validation of common fabrics for public health.*
 
