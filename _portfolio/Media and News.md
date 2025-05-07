@@ -10,7 +10,7 @@ author_profile: true
 - [Illinois Students Earn CCIL Scholarships to Support Cancer Research](https://cancer.illinois.edu/illinois-students-earn-ccil-scholarships-to-support-cancer-research/)  
   *Recognized by the Cancer Center at Illinois for cancer-focused research excellence.*
 
-- [Bashar Wins Best Ph.D. Thesis Award in MechSE](https://mechse.illinois.edu/news/33958)  
+- [Bashar Wins Michael A. and E. Ann Sutton Graduate Student Award](https://mechse.illinois.edu/news/33958)  
   *Awarded for outstanding doctoral research in Theoretical and Applied Mechanics.*
 
 - [Bashar Honored With Outstanding Graduate Student Award by Tau Beta Pi](https://mechse.illinois.edu/news/35399)  
