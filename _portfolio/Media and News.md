@@ -20,7 +20,7 @@ author_profile: true
   *Selected as a Beckman Graduate Fellow to support interdisciplinary research.*
 
 - [MechSE graduate students named Mavis Fellows]([https://beckman.illinois.edu/about/news/article/2021/04/28/seven-students-win-2021-beckman-institute-graduate-fellowships](https://mechse.illinois.edu/news/mechse-graduate-students-named-mavis-fellows))  
-  *Selected as a Beckman Graduate Fellow to support interdisciplinary research.*
+  *Selected to receive training and mentorship for pursuing a faculty career.*
 
 - [MechSE's 2021 student award winners](https://mechse.illinois.edu/news/33958)  
   *Received Michael and Ann Sutton Award as an outstanding graduate student in Theoretical and Applied Mechanics.*
