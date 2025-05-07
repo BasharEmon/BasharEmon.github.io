@@ -13,8 +13,8 @@ author_profile: true
 - [Bashar Wins Michael A. and E. Ann Sutton Graduate Student Award](https://mechse.illinois.edu/news/33958)  
   *Awarded for outstanding doctoral research in Theoretical and Applied Mechanics.*
 
-- [Bashar Honored With Outstanding Graduate Student Award by Tau Beta Pi](https://mechse.illinois.edu/news/35399)  
-  *Recognized for academic and research excellence by the engineering honor society.*
+- [Emon Awarded Prestigious Beckman Fellowship](https://mechse.illinois.edu/news/35399)  
+  *Receives two-year's funding for interdisciplinary research on cancer.*
 
 - [Seven Students Win 2021 Beckman Institute Graduate Fellowships](https://beckman.illinois.edu/about/news/article/2021/04/28/seven-students-win-2021-beckman-institute-graduate-fellowships)  
   *Selected as a Beckman Graduate Fellow to support interdisciplinary research.*
