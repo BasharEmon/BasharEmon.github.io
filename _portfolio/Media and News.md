@@ -19,6 +19,9 @@ author_profile: true
 - [Seven Students Win 2021 Beckman Institute Graduate Fellowships](https://beckman.illinois.edu/about/news/article/2021/04/28/seven-students-win-2021-beckman-institute-graduate-fellowships)  
   *Selected as a Beckman Graduate Fellow to support interdisciplinary research.*
 
+- [MechSE's 2021 student award winners](https://mechse.illinois.edu/news/33958)  
+  *Received Michael and Ann Sutton Award as an outstanding graduate student in Theoretical and Applied Mechanics.*
+
 - [Scientists Test Best Fabric Choices for Making a Homemade COVID Mask](https://scitechdaily.com/scientists-test-best-fabric-choices-for-making-a-homemade-covid-mask/)  
   *Contributed to a study that evaluated fabric effectiveness for DIY masks.*
 
