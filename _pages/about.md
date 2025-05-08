@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+print 'theme'
 <style>
   table a:hover {
     color: purple;
