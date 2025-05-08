@@ -6,6 +6,18 @@ layout: compress
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+<style>
+   body {
+     background: url('/images/profile.png') no-repeat center center fixed;
+     background-size: cover;
+     color: #fff; /* Optional: makes text readable */
+     .content {
+       background: rgba(0, 0, 0, 0.6);
+       padding: 20px;
+       border-radius: 8px;
+       }
+  </style>
+  
   <head>
     {% include head.html %}
     {% include head/custom.html %}
@@ -30,17 +42,7 @@ layout: compress
   </body>
 </html>
 
-<style>
-  body {
-    background: url('/images/profile.png') no-repeat center center fixed;
-    background-size: cover;
-    color: #fff; /* Optional: makes text readable */
-    .content {
-      background: rgba(0, 0, 0, 0.6);
-      padding: 20px;
-      border-radius: 8px;
-  }
-</style>
+
 
 <html>
  <body>
