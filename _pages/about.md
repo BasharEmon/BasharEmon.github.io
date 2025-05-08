@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style>
 body {
-  background: url('background.jpg') no-repeat center center fixed;
+  background: BasharEmon.github.io/images/('bio-photo-2.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 </style>
