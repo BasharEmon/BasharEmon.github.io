@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
   table a:hover {
-    color: ;
+    color: var(--in-page-menu-hover-color);
   }
 </style>
 
