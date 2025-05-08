@@ -6,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+body {
+  background: url('background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+</style>
+
 
 <style>
   table a:hover {
