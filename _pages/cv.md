@@ -38,9 +38,9 @@ Publications
 
 Theses
 ======
-*	Md Abul Bashar Emon (2023), “Towards Understanding the Role of Cellular Force in Cancer Progression” <br>Ph. D. in Theoretical & Applied Mechanics, University of Illinois at Urbana-Champaign, Illinois, USA.
-*	Md Abul Bashar Emon (2014), “Study of Strength and Ductility of Galvanised Iron Wire Reinforced Concrete” <br> M. Sc. (Civil & Structure) Thesis, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
-*	Md Abul Bashar Emon (2012), “Analytical & computational investigation on lateral stiffness of shear walls with openings”<br>B. Sc. (Civil Engineering) Thesis, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+*	Bashar Emon (2023), “Towards Understanding the Role of Cellular Force in Cancer Progression” <br>Ph. D. in Theoretical & Applied Mechanics, University of Illinois at Urbana-Champaign, Illinois, USA.
+*	Bashar Emon (2014), “Study of Strength and Ductility of Galvanised Iron Wire Reinforced Concrete” <br>M. Sc. (Structural Engineering), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+*	Bashar Emon (2012), “Analytical & computational investigation on lateral stiffness of shear walls with openings”<br>B. Sc. (Civil Engineering), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
 
 Talks
 ======
