@@ -15,13 +15,13 @@ redirect_from:
 
 <table style="width:100%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold;">
   <tr>
-    <td style="border:0; border-style:none;"><a href="/about/">HOME/RESEARCH</a></td>
-    <td style="border:0; border-style:none;"><a href="/publications/">PUBLICATIONS</a></td>
-    <td style="border:0; border-style:none;"><a href="/talks/">TALKS</a></td>
-    <td style="border:0; border-style:none;"><a href="/teaching/">TEACHING</a></td>
-    <td style="border:0; border-style:none;"><a href="/portfolio/">AWARDS</a></td>
+    <td style="border:0; border-style:none;"><a href="/about/">Home/Research</a></td>
+    <td style="border:0; border-style:none;"><a href="/publications/">Publications</a></td>
+    <td style="border:0; border-style:none;"><a href="/talks/">Talks</a></td>
+    <td style="border:0; border-style:none;"><a href="/teaching/">Teaching</a></td>
+    <td style="border:0; border-style:none;"><a href="/portfolio/">Awards</a></td>
     <td style="border:0; border-style:none;"><a href="/cv/">CV</a></td>
-    <td style="border:0; border-style:none;"><a href="/contact/">CONTACT</a></td>
+    <td style="border:0; border-style:none;"><a href="/contact/">Contact</a></td>
   </tr>
 </table>
 
