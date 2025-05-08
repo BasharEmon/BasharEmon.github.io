@@ -17,17 +17,18 @@ Education
 
 Work experience
 ======
-*	Postdoctoral Research Associate (2023-present)<br>
+
+* Postdoctoral Research Associate (2023-present)<br>
   Department of Mechanical Science & Engineering, University of Illinois at Urbana-Champaign
 
 * Graduate Research Assistant (2017-2023)<br>
   Department of Mechanical Science & Engineering, University of Illinois at Urbana-Champaign
 
-*	Assistant Professor (2015-2017)<br>
-Department of Civil Engineering, Bangladesh University of Engineering & Technology, Dhaka-1000
-
-*	Lecturer (2012-2015)<br>
-	Department of Civil Engineering, Bangladesh University of Engineering & Technology, Dhaka-1000
+* Assistant Professor (2015-2017)<br>
+  Department of Civil Engineering, Bangladesh University of Engineering & Technology, Dhaka-1000
+  
+* Lecturer (2012-2015)<br>
+  Department of Civil Engineering, Bangladesh University of Engineering & Technology, Dhaka-1000
 
 Publications
 ======
@@ -37,9 +38,9 @@ Publications
 
 Theses
 ======
-*	Md. Abul Bashar Emon (2023), “Towards Understanding the Role of Cellular Force in Cancer Progression” <br>Ph. D. in Theoretical & Applied Mechanics, University of Illinois at Urbana-Champaign, Illinois, USA.
-*	Md. Abul Bashar Emon (2014), “Study of Strength and Ductility of Galvanised Iron Wire Reinforced Concrete” <br> M. Sc. (Civil & Structure) Thesis, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
-*	Md. Abul Bashar Emon (2012), “An Analytical and Computational Investigation on Lateral Stiffness of Shear Walls with Openings” <br>B. Sc. (Civil Engineering) Thesis, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+*	Md Abul Bashar Emon (2023), “Towards Understanding the Role of Cellular Force in Cancer Progression” <br>Ph. D. in Theoretical & Applied Mechanics, University of Illinois at Urbana-Champaign, Illinois, USA.
+*	Md Abul Bashar Emon (2014), “Study of Strength and Ductility of Galvanised Iron Wire Reinforced Concrete” <br> M. Sc. (Civil & Structure) Thesis, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+*	Md Abul Bashar Emon (2012), “An Analytical and Computational Investigation on Lateral Stiffness of Shear Walls with Openings” <br>B. Sc. (Civil Engineering) Thesis, Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
 
 Talks
 ======
