@@ -8,14 +8,6 @@ redirect_from:
 ---
 
 <style>
-body {
-  background: (/images/bio-photo-2.jpg) no-repeat center center fixed;
-  background-size: cover;
-}
-</style>
-
-
-<style>
   table a:hover {
     color: purple;
   }
