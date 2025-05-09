@@ -25,6 +25,8 @@ redirect_from:
   </tr>
 </table>
 
+Example: Sensor to measure cell force in 3D matrices. 
+<img src="/images/sensor_force_1.png" alt="Force sensor" style="border-radius: 12px; opacity: 0.9; max-width: 100%;">
 ![Force sensor](/images/sensor_force_1.png)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
