@@ -40,15 +40,20 @@ Description of the sensor and image below in italic.
          opacity: 0.9;
          max-width: 100%;
          height: auto;
-         filter: drop-shadow(0 0 20px rgba(255,255,255,0.5));
-         mask-image: radial-gradient(ellipse 70% 70% at center, black 70%, transparent 100%);
-         -webkit-mask-image: radial-gradient(ellipse 70% 70% at center, black 70%, transparent 100%);
+         -webkit-mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+         -webkit-mask-composite: destination-in;
+         mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+         mask-composite: intersect;
        ">
 </div>
 
-Sensor to measure cell force in 3D matrices. 
+# Sensor to measure cell force in 3D matrices. 
 ======
-<img src="/images/sensor_force_1.png" alt="Force sensor" style="border-radius: 25px; opacity: 1; max-width: 100%;">
+# <img src="/images/sensor_force_1.png" alt="Force sensor" style="border-radius: 25px; opacity: 1; max-width: 100%;">
 
 In addition, this sensor platform can simultaneously monitor/measure the evolution of matrix mechanical properties, and test drug efficacy in cancer treatment. This method marks a significant advancement in the field as this platform solved a long-standing problem of directly measuring force dynamics in an active matrix, which mimics in vivo mechanical microenvironment. 
 
