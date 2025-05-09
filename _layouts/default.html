@@ -12,12 +12,17 @@ layout: compress
     {% include head/custom.html %}
   </head>
   
-  /* <style>
-  body {
-    background: url('/images/light_bg.png') no-repeat center center fixed;
-    background-size: cover;
-    color: ;
-  }
+  <style>
+    body {
+      background: url('/images/light_bg.png') no-repeat center center fixed;
+      background-size: cover;
+      color: ;
+   }
+    html[data-theme="dark"] body {
+      background: url('/images/dark_bg.png') no-repeat center center fixed;
+      background-size: cover;
+      color: ; /* better for dark background */
+   }
   </style>
 
   <body>
