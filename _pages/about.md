@@ -51,7 +51,7 @@ Description of the sensor and image below in italic.
        ">
 </div>
 
-<-- Sensor to measure cell force in 3D matrices. 
+<!-- Sensor to measure cell force in 3D matrices. 
 ======
 ## <img src="/images/sensor_force_1.png" alt="Force sensor" style="border-radius: 25px; opacity: 1; max-width: 100%;"> -->
 
