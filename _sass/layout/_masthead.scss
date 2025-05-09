@@ -5,7 +5,7 @@
 .masthead {
   position: fixed;
   background: #6699cc;
-  height: fit-content;
+  height: 150px; //fit-content;
   top: 0;
   width: 100%;
   
@@ -90,7 +90,7 @@
   }
 }
 .masthead__menu-item:first-child {
-  font-size: 2rem;  // or any size you want
+  font-size: 2.8rem;  // or any size you want
   font-weight: 700;
   //color: blue;
   text-align: center;
