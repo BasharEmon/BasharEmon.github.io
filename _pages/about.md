@@ -39,7 +39,7 @@ Description of the sensor and image below in italic.
          border-radius: 12px;
          opacity: 0.9;
          max-width: 100%;
-         height: 450px;
+         height: 400px;
          -webkit-mask-image: 
            linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
