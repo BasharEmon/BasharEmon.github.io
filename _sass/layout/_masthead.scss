@@ -85,7 +85,7 @@
   }
 
   a:hover {
-    color: #FC8A17 !important; // hover color, this does not function at all
+    color: #ffd700 !important; // hover color, this does not function at all
     font-weight: bold; // or 700
     //background-color: var(--global-bg-color) !important;
   }
@@ -100,8 +100,8 @@
 
   a:hover {
     //font-weight: 800; //750;
-    color: #FC8A17 !important; // #001040 !important;
-    text-shadow: 1px 1px 2px rgba(250, 250, 250, .1);
+    color: #ffd700 !important; // #001040 !important;
+    //text-shadow: 1px 1px 2px rgba(250, 250, 250, .1);
     background-color: var(--masthead-bg-color) !important;
   }
 }
