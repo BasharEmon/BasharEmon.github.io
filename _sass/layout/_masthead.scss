@@ -5,7 +5,6 @@
 .masthead {
   position: fixed;
   background: #6699cc;
-  padding-left: 40px; 
   height: fit-content;
   top: 0;
   width: 100%;
@@ -33,6 +32,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 1em;
+    padding-left: 50px;
     background-color: #6699cc;
     font-family: $sans-serif-narrow;
 
