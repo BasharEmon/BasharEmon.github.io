@@ -28,7 +28,7 @@ repository               : "BasharEmon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Emon, Bashar.jpg"
+  avatar           : "Bashar Emon_square.jpg"
   name             : "Bashar Emon, PhD"
   pronouns         : # example: "she/her"  
   bio              : "I explore mechanics within the tumor microenvironment."
