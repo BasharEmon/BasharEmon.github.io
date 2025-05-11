@@ -38,7 +38,7 @@ Description of the sensor and image below in italic.
        style="
          border-radius: 6px;
          opacity: 0.9;
-         max-width: 100%;
+         max-width: 120%;
          height: 350px;
          -webkit-mask-image: 
            linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
