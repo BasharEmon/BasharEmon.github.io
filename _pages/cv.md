@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV (pdf)](BasharEmon.github.io/files/A_CV_Emon.pdf)
+[Download CV (pdf)](/files/A_CV_Emon.pdf)
+
 {% include base_path %}
 
 Education
