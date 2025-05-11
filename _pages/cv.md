@@ -64,9 +64,20 @@ Service and leadership
 
 Skills
 ======
-* Skill 1
+* Biomaterials
+  * BSL-II experiences, cell and tissue culture, traction force microscopy, confocal microscopy,  
+fluorescence microscopy, DNA transfection, ELISA, immunohistochemistry, flow cytometry, histology.
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+  Biomaterial related: BSL-II experiences, cell and tissue culture, traction force microscopy, confocal microscopy,  
+fluorescence microscopy, DNA transfection, ELISA, immunohistochemistry, flow cytometry, histology.
+Materials Testing and Characterization: SEM, AFM, Raman spectroscopy, FMEA, DFMEA, XRD, rheometry
+Engineering Software: SolidWorks, AutoCAD, ABAQUS, FUSION 360, ANSYS
+Programming Languages: C++, Python, MATLAB
+Data Analysis: Origin, Microsoft Office Suite (Excel, PowerPoint, Word), Minitab
+Cleanroom Fabrication Techniques:  Lithography, Etching, Deposition, DRIE, Mask fabrication. 
+
