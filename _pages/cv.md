@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Downloadable CV (PDF)](/files/A_CV_Emon.pdf)
 {% include base_path %}
 
 Education
