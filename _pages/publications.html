@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
@@ -30,7 +30,70 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
+{% endif %} -->
+
+
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
+  </div>
 {% endif %}
+
+<!-- Group publications by year -->
+{% assign posts_by_year = site.publications | sort: "date" | reverse | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+<!-- Year Tabs -->
+<div class="year-tabs" style="margin: 1em 0;">
+  {% for year in posts_by_year %}
+    <a href="#year-{{ year.name }}" class="year-tab">{{ year.name }}</a>
+  {% endfor %}
+</div>
+
+<!-- Grouped Publications -->
+{% for year in posts_by_year %}
+  <h2 id="year-{{ year.name }}">{{ year.name }}</h2>
+  <hr />
+  {% for post in year.items %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+
+<!-- Custom styles -->
+<style>
+  .year-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 1em;
+  }
+
+  .year-tab {
+    padding: 6px 12px;
+    background: #eee;
+    color: #333;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease;
+  }
+
+  .year-tab:hover {
+    background: #ccc;
+  }
+
+  html[data-theme='dark'] .year-tab {
+    background: #444;
+    color: #fff;
+  }
+
+  html[data-theme='dark'] .year-tab:hover {
+    background: #666;
+  }
+</style>
+
 
 
 
