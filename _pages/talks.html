@@ -46,7 +46,8 @@ author_profile: true
   <h2 id="year-{{ year }}">{{ year }}</h2>
   <hr />
   {% for talk in talks_sorted %}
-    {% if talk.date | date: "%Y" == year %}
+    {% assign talk_year = talk.date | date: "%Y" %}
+    {% if talk_year == year %}
       {% include archive-single-talk.html %}
     {% endif %}
   {% endfor %}
