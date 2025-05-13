@@ -24,25 +24,35 @@ author_profile: true
 {% endif %}
 
 <!-- Group talks by year -->
-{% assign talks_by_year = site.talks | sort: "date" | reverse | group_by_exp:"talk", "talk.date | date: '%Y'" %}
+{% assign talks_sorted = site.talks | sort: 'date' | reverse %}
+{% assign years = "" | split: "" %}
+
+{% for talk in talks_sorted %}
+  {% assign year = talk.date | date: "%Y" %}
+  {% unless years contains year %}
+    {% assign years = years | push: year %}
+  {% endunless %}
+{% endfor %}
 
 <!-- Year Tabs -->
 <div class="year-tabs" style="margin: 1em 0;">
-  {% for year in talks_by_year %}
-    <a href="#year-{{ year.name }}" class="year-tab">{{ year.name }}</a>
+  {% for year in years %}
+    <a href="#year-{{ year }}" class="year-tab">{{ year }}</a>
   {% endfor %}
 </div>
 
-<!-- Grouped Talks -->
-{% for year in talks_by_year %}
-  <h2 id="year-{{ year.name }}">{{ year.name }}</h2>
+<!-- Talks by Year -->
+{% for year in years %}
+  <h2 id="year-{{ year }}">{{ year }}</h2>
   <hr />
-  {% for talk in year.items %}
-    {% include archive-single-talk.html %}
+  {% for talk in talks_sorted %}
+    {% if talk.date | date: "%Y" == year %}
+      {% include archive-single-talk.html %}
+    {% endif %}
   {% endfor %}
 {% endfor %}
 
-<!-- Custom Styles -->
+<!-- Style -->
 <style>
   .year-tabs {
     display: flex;
@@ -74,7 +84,6 @@ author_profile: true
     background: #666;
   }
 
-  /* Fix anchor offset */
   h2[id^="year-"] {
     scroll-margin-top: 120px;
   }
