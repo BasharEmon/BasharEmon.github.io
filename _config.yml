@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "     mechanics in tissue μ-environment  sfsdfsdfdf   <span style='font-size: 4000 !important; font-family: Orbitron, Verdana, sans-serif;'>"
+title                    : "     mechanics of tissue μ-environment   <span style='font-size: 4000 !important; font-family: Orbitron, Verdana, sans-serif;'>"
                           #"<u>M</u>echanics.<u>E</u>ngineering.<u>M</u>edicine.<u>S</u>cience<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>M.E.M.S.</span>"
                           #"<u>Ti</u>ssue <u>M</u>icro<u>E</u>nvironment <u>M</u>echanics & <u>S</u>imulation<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>Ti-MEMS</span>" 
                           #"<u>M</u>echanics of bio<u>E</u>ngineered <u>M</u>icro-<u>S</u>ystems<br><span style='font-size: 9000 !important; font-family: Orbitron, Verdana, sans-serif;'>MEMS</span>"       <u>M</u>.<u>E</u>.<u>M</u>.<u>S</u>.
