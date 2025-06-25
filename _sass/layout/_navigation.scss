@@ -228,8 +228,9 @@
     #theme-toggle {
       a {
         width: 25px;
+        z-index: 10;
         display: flex;
-        justify-content: center;
+        justify-content: left;
         cursor: pointer;
       }
     }
