@@ -91,15 +91,15 @@
   }
 }
 .masthead__menu-item:first-child {
-  font-size: 2.2rem;  // or any size you want
-  font-weight: 500;
+  font-size: 1.8rem;  // or any size you want
+  font-weight: 450;
   //color: blue;
   text-align: center;
   width: 100%;         // ensure it can span full width
   justify-content: center; // works if flex item 
 
   a:hover {
-    //font-weight: 600; //750;
+    //font-weight: 550; //750;
     color: #ffa500 !important; // #001040 !important;
     //text-shadow: 1px 1px 2px rgba(250, 250, 250, .1);
     background-color: var(--masthead-bg-color) !important;
