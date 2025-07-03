@@ -231,6 +231,9 @@
         font-size: 1rem;
         display: flex;
         justify-content: center;
+        align-items: flex-end; /* if using flex inside the toggle */
+        position: relative;
+        top: 6px; /* manually shift it down */
         cursor: pointer;
       }
     }
