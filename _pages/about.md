@@ -25,9 +25,13 @@ redirect_from:
   </tr>
 </table>
 
+Overview 
+------
 Inspired by how mechanical environment (stiffness, microstructure), forces and strains influence the rules of life, my research explores pathophysiology through the lens of mechanics. I have been trained in theoretical and experimental mechanics which allows me to focus on cellular and tissue biomechanics. I explore the role of cellular forces on their behavior and function, particularly within the tumor microenvironment, with the ultimate goal of translating these insights into clinical applications. 
 
 During my PhD, under the supervision of Professor Taher Saif, I developed a novel experimental platform that allows, for the first time, measuring single cell forces in 3D matrices and forming in vitro tumors with primary cancer cells and stromal cells that assist the cancer cells (published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.abf2629) & [Nature Protocols](https://www.nature.com/articles/s41596-024-01106-8)). Cell forces could only be measured for cells on a 2D soft elastic substrate from the substrate deformation. However, cells in organs are in a 3D environment. Cell forces in 3D matrices could not be measured due to non-linearity and/or local remodeling of the matrix. I overcame this limitation by inventing a sensor platform that takes advantage of force balance to measure cell-generated forces. 
+
+[Profile photo](/images/profile.png)  [Profile photo](/images/profile.png)  [Profile photo](/images/profile.png) 
 
 Sensor to measure cell force in 3D matrices. 
 ------
