@@ -33,34 +33,34 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
 
 <div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem;">
 
-  <a href="#research">
-    <img src="/images/research_icon.png" alt="Research" width="150">
+  <a href="#innovation">
+    <img src="/images/profile.png" alt="innovation" width="150">
   </a>
 
-  <a href="#teaching">
-    <img src="/images/teaching_icon.png" alt="Teaching" width="150">
+  <a href="#mechanotransduction">
+    <img src="/images/profile.png" alt="mechanotransduction" width="150">
   </a>
 
-  <a href="#service">
-    <img src="/images/service_icon.png" alt="Service" width="150">
+  <a href="#mechanics for personalized medicine">
+    <img src="/images/profile.png" alt="mechanics for personalized medicine" width="150">
   </a>
 
 </div>
 
 ---
 
-## <a name="research"></a>Research
-Your research section content...
+## <a name="innovation"></a>innovation
+sensor innovation content...
 
 ---
 
-## <a name="teaching"></a>Teaching
-Your teaching section content...
+## <a name="mechanotransduction"></a>mechanotransduction
+mechanotransduction content...
 
 ---
 
-## <a name="service"></a>Service
-Your service section content... 
+## <a name="mechanics for personalized medicine"></a>mechanics for personalized medicine
+biomechanical tumor models for personalized medicine ... 
 
 
 Sensor to measure cell force in 3D matrices. 
