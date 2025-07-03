@@ -38,11 +38,11 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
   </a>
 
   <a href="#mechanotransduction">
-    <img src="/images/actin_dapi_2D.png" alt="mechanotransduction" height="150">
+    <img src="/images/actin_dapi_2D.png" alt="mechanotransduction" height="140">
   </a>
 
   <a href="#translation">
-    <img src="/images/SHG_cell.png" alt="translation" height="150">
+    <img src="/images/SHG_cell.png" alt="translation" height="140">
   </a>
 
 </div>
