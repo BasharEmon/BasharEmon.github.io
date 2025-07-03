@@ -34,15 +34,15 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
 <div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem;">
 
   <a href="#innovation">
-    <img src="/images/Sensor_force_SEM_crop.png" alt="innovation" style="height: 150px; width: auto; object-fit: contain;">
+    <img src="/images/Sensor_force_SEM_crop.png" alt="innovation" style="height: 150px; width: auto; object-fit: contain; border-radius: 8px;">
   </a>
 
   <a href="#mechanotransduction">
-    <img src="/images/actin_dapi_2D.png" alt="mechanotransduction" style="height: 150px; width: auto; object-fit: contain;">
+    <img src="/images/actin_dapi_2D.png" alt="mechanotransduction" style="height: 150px; width: auto; object-fit: contain; border-radius: 8px;">
   </a>
 
   <a href="#translation">
-    <img src="/images/SHG_cell.png" alt="translation" style="height: 150px; width: auto; object-fit: contain;">
+    <img src="/images/SHG_cell.png" alt="translation" style="height: 150px; width: auto; object-fit: contain; border-radius: 8px;">
   </a>
 
 </div>
