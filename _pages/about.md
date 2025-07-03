@@ -34,7 +34,7 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
 <div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem;">
 
   <a href="#innovation">
-    <img src="/images/Sensor_force_SEM_crop.png" alt="innovation" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+    <img src="/images/Tensile test.gif" alt="innovation" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">     <!-- Sensor_force_SEM_crop.png -->
   </a>
 
   <a href="#mechanotransduction">
