@@ -47,17 +47,14 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
 
 </div>
 
----
 
 ## <a name="innovation"></a>innovation
 sensor innovation content...
 
----
 
 ## <a name="mechanotransduction"></a>mechanotransduction
 mechanotransduction content...
 
----
 
 ## <a name="mechanics for personalized medicine"></a>mechanics for personalized medicine
 biomechanical tumor models for personalized medicine ... 
