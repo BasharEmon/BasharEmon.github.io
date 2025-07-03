@@ -34,15 +34,15 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
 <div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem;">
 
   <a href="#innovation">
-    <img src="/images/profile.png" alt="innovation" width="150">
+    <img src="/images/Sensor_force_SEM.png" alt="innovation" width="150">
   </a>
 
   <a href="#mechanotransduction">
-    <img src="/images/profile.png" alt="mechanotransduction" width="150">
+    <img src="/images/actin_dapi_2D.png" alt="mechanotransduction" width="150">
   </a>
 
   <a href="#translation">
-    <img src="/images/profile.png" alt="translation" width="150">
+    <img src="/images/SHG_cell.png" alt="translation" width="150">
   </a>
 
 </div>
