@@ -31,7 +31,37 @@ Inspired by how mechanical environment (stiffness, microstructure), forces and s
 
 During my PhD, under the supervision of Professor Taher Saif, I developed a novel experimental platform that allows, for the first time, measuring single cell forces in 3D matrices and forming in vitro tumors with primary cancer cells and stromal cells that assist the cancer cells (published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.abf2629) & [Nature Protocols](https://www.nature.com/articles/s41596-024-01106-8)). Cell forces could only be measured for cells on a 2D soft elastic substrate from the substrate deformation. However, cells in organs are in a 3D environment. Cell forces in 3D matrices could not be measured due to non-linearity and/or local remodeling of the matrix. I overcame this limitation by inventing a sensor platform that takes advantage of force balance to measure cell-generated forces. 
 
-<img src="/images/sensor_force_SEM.png" alt="Force sensor" style="border-radius: 25px; opacity: 1; max-width: 50%;"> <img src="/images/sensor_force_1.png" alt="Force sensor" style="border-radius: 25px; opacity: 1; max-width: 50%;">   
+<div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem;">
+
+  <a href="#research">
+    <img src="/images/research_icon.png" alt="Research" width="150">
+  </a>
+
+  <a href="#teaching">
+    <img src="/images/teaching_icon.png" alt="Teaching" width="150">
+  </a>
+
+  <a href="#service">
+    <img src="/images/service_icon.png" alt="Service" width="150">
+  </a>
+
+</div>
+
+---
+
+## <a name="research"></a>Research
+Your research section content...
+
+---
+
+## <a name="teaching"></a>Teaching
+Your teaching section content...
+
+---
+
+## <a name="service"></a>Service
+Your service section content... 
+
 
 Sensor to measure cell force in 3D matrices. 
 ------
