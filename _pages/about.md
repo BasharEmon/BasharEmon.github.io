@@ -41,23 +41,23 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
     <img src="/images/profile.png" alt="mechanotransduction" width="150">
   </a>
 
-  <a href="#mechanics for personalized medicine">
-    <img src="/images/profile.png" alt="mechanics for personalized medicine" width="150">
+  <a href="#translational mechanics">
+    <img src="/images/profile.png" alt="translational mechanics" width="150">
   </a>
 
 </div>
 
-
+<div id="innovation" style="position: relative; top: -80px;"></div>
 ## <a name="innovation"></a>innovation
 sensor innovation content...
 
-
+<div id="mechanotransduction" style="position: relative; top: -80px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
 mechanotransduction content...
 
-
-## <a name="mechanics for personalized medicine"></a>mechanics for personalized medicine
-biomechanical tumor models for personalized medicine ... 
+<div id="translational mechanics" style="position: relative; top: -80px;"></div>
+## <a name="translational mechanics"></a>mechanics for personalized medicine
+biomechanical tumor models for personalized medicine... 
 
 
 Sensor to measure cell force in 3D matrices. 
