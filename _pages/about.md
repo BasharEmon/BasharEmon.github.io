@@ -38,7 +38,7 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
   </a>
 
   <a href="#mechanotransduction">
-    <img src="/images/Actin_dapi_3D.mp4" alt="mechanotransduction" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+    <img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
   </a>
 
   <a href="#translation">
