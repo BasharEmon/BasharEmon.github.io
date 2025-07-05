@@ -42,7 +42,7 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
   </a>
 
   <a href="#translation">
-    <img src="/images/YAP animation_3.png" alt="translation" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+    <img src="/images/YAP animation_3.gif" alt="translation" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
   </a>
 
 </div>
