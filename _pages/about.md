@@ -62,7 +62,7 @@ mechanotransduction content...
 <div id="translation" style="position: relative; top: -60px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
 biomechanical tumor models for personalized medicine... 
-<img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 450px;>
+<img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 450px;">
 
 
 Sensor to measure cell force in 3D matrices. 
