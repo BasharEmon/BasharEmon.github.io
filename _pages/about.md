@@ -47,22 +47,22 @@ During my PhD, under the supervision of Professor Taher Saif, I developed a nove
 
 </div>
 
-<div id="innovation" style="position: relative; top: -80px;"></div>
+<div id="innovation" style="position: relative; top: -60px;"></div>
 ## <a name="innovation"></a>innovation
 sensor innovation content...
 <img src="/images/CAF force timelapse.gif" alt="innovation">
 
  
-<div id="mechanotransduction" style="position: relative; top: -80px;"></div>
+<div id="mechanotransduction" style="position: relative; top: -60px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
 mechanotransduction content...
-<img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction">
+<img src="/images/YAP animation_3.gif" alt="translation">
 
 
-<div id="translation" style="position: relative; top: -80px;"></div>
+<div id="translation" style="position: relative; top: -60px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
 biomechanical tumor models for personalized medicine... 
-<img src="/images/YAP animation_3.gif" alt="translation">
+<img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 450px;>
 
 
 Sensor to measure cell force in 3D matrices. 
