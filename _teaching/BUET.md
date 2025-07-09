@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BUET
 venue: "BUET, Department of Civil Engineering"
-date: 
+date: 2015-05-01
 location: "Dhaka, Bangladesh"
 ---
 
