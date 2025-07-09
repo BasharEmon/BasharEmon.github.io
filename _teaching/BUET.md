@@ -1,7 +1,7 @@
 ---
 title: "Bangladesh University of Engineering and Technology"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/BUET
 venue: "BUET, Department of Civil Engineering"
 date: 2015-05-01
