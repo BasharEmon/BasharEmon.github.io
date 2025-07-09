@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UIUC
 venue: "UIUC, Mechanical Science & Engineering"
-date: 2019-present
+date: 
 location: "Urbana, USA"
 ---
 I have teaching experience on the following topics: 
