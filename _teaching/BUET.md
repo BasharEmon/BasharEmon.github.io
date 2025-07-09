@@ -1,15 +1,14 @@
 ---
-title: "Bangladesh University of Engineering and Technology (BUET)"
+title: "Bangladesh University of Engineering and Technology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BUET
 venue: "BUET, Department of Civil Engineering"
-date: 2014-06-01
+date: 2012-2017
 location: "Dhaka, Bangladesh"
 ---
 
 I taught the following courses: 
-
 • Mechanics of solids I & II
 • Engineering materials
 • Numerical methods
