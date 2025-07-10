@@ -1,0 +1,50 @@
+🧬 Overview
+My research sits at the interface of mechanics, biology, and medicine. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how physical forces shape cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this agenda forward.
+
+🧪 Innovation: Sensor Technologies for 3D Force & Stiffness
+<img src="/images/Sensor_force_SEM.png" alt="3D Sensor" style="height: 150px; float: right; margin-left: 20px; border-radius: 8px;">
+I developed a microfabricated 3D tissue sensor that addresses a long-standing problem in cell mechanics: the inability to measure cellular forces in 3D microenvironments. Unlike traditional 2D traction force microscopy, this platform enables direct quantification of single- and multicellular forces in self-assembled 3D tissues with nanonewton resolution, alongside simultaneous readouts of matrix stiffening. These sensors have been used to uncover dynamic mechanical interactions between cancer cells and stromal fibroblasts, revealing a feedback loop that promotes tumor invasion and remodeling of the extracellular matrix (ECM)
+.
+
+Published in Science Advances and soon in Nature Protocols, this platform lays the foundation for biomechanical assays, drug screening, and ultimately force-informed precision therapies.
+
+⚙️ Mechanotransduction in the Tumor Microenvironment
+<img src="/images/actin_dapi_2D.png" alt="Mechanotransduction" style="height: 140px; float: right; margin-left: 20px; border-radius: 8px;">
+My research has revealed that mechanical signaling, not just chemical cues, plays a dominant role in cancer cell migration and metastasis. I showed that CAF (cancer-associated fibroblast) contractility drives stiffening of the ECM and induces nuclear deformation in cancer cells, which activates YAP, a mechanosensitive transcription co-activator. This activation upregulates genes linked to pro-metastatic behavior, including Activin A, a cytokine that further enhances invasion
+.
+
+Additional work published in Scientific Data and Extreme Mechanics Letters includes:
+
+Defining mechanical thresholds for phototoxicity in live-cell imaging
+
+Transcriptomic changes in mechanosensitive CAFs
+
+Mapping fiber alignment under mechanical strain
+
+These findings help build a framework for understanding how physical forces regulate gene expression, migration, and tumor progression.
+
+🧠 Neuromechanics and Muscle-Tissue Interfaces
+<img src="/images/SHG_cell.png" alt="SHG cell" style="height: 140px; float: right; margin-left: 20px; border-radius: 8px;">
+In collaboration with researchers at UIUC and CZ Biohub, I co-authored a PNAS study that explored how tissue architecture and fiber alignment influence neuromuscular feedback loops. Using engineered muscle tissues and embedded sensors, we analyzed how force generation and alignment affect motor neuron activation and feedback control. This work paves the way for future studies in neuro-muscular repair, wearable prosthetics, and biomechatronic systems.
+
+🧭 Mechanics for Personalized Medicine
+Looking ahead, I envision a research program that transforms biomechanics from a basic science tool into a clinical decision-making platform. Key goals include:
+
+Mechanomarkers for Prognostics
+Using machine learning on tumor histology and mechanical profiles, I aim to identify mechanical signatures (nuclear strain, stiffness, fiber architecture) that predict metastatic potential — a class of diagnostic tools I term “mechanomarkers”
+.
+
+Force-Targeted Therapies
+By developing contractility-inhibiting devices and using CRISPR-based tools to decouple nuclear deformation from cytoskeletal force, I will test new ways to interrupt the physical drivers of metastasis.
+
+Glioblastoma-on-a-Chip
+I will model the brain's biomechanical environment, exploring how astrocyte contractility and ECM remodeling influence glioblastoma spread across the blood-brain barrier
+.
+
+High-Throughput MEMS Sensors
+I aim to design a sensor array system compatible with 96-well formats to enable automated force measurements for drug screening in patient-derived tissues. These platforms will feed into real-time clinical decision tools and customized treatment planning
+.
+
+Biohybrid Systems and Wearables
+My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo — bringing mechanical insight directly into the clinic
+.
