@@ -27,7 +27,7 @@ redirect_from:
 
 Overview 
 ------
-At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how physical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. 
+At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how mechanical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. 
 
 <div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem;">
 
@@ -53,7 +53,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
 <div id="innovation" style="position: relative; top: -60px;"></div>
 ## <a name="innovation"></a>innovation
 
-I developed a microfabricated 3D tissue sensor that addresses a long-standing problem in cell mechanics: the inability to measure cellular forces in 3D microenvironments. Unlike traditional 2D traction force microscopy, this platform enables direct quantification of single- and multicellular forces in self-assembled 3D tissues with nanonewton resolution, alongside simultaneous readouts of matrix stiffening. These sensors have been used to uncover dynamic mechanical interactions between cancer cells and stromal fibroblasts, revealing a feedback loop that promotes tumor invasion and remodeling of the extracellular matrix (ECM). Published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.abf2629) & [Nature Protocols](https://www.nature.com/articles/s41596-024-01106-8), this platform lays the foundation for biomechanical assays, drug screening, and ultimately mechanics-informed precision therapies.
+During my PhD, under the supervision of Professor Taher Saif, I developed a microfabricated 3D tissue sensor that addresses a long-standing problem in cell mechanics: the inability to measure cellular forces in 3D microenvironments. Unlike traditional 2D traction force microscopy, this platform enables direct quantification of single- and multicellular forces in self-assembled 3D tissues with nanonewton resolution, alongside simultaneous readouts of matrix stiffening. These sensors have been used to uncover dynamic mechanical interactions between cancer cells and stromal fibroblasts, revealing a feedback mechanism that promotes tumor invasion and remodeling of the extracellular matrix (ECM). Published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.abf2629) & [Nature Protocols](https://www.nature.com/articles/s41596-024-01106-8), this platform lays the foundation for biomechanical assays, drug screening, and ultimately mechanics-informed precision therapies.
 
 <div style="text-align: center; padding: 20px;">
   <img src="/images/Sensor_force_SEM.png"
@@ -78,7 +78,7 @@ I developed a microfabricated 3D tissue sensor that addresses a long-standing pr
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
 
-My research has revealed that mechanical signaling, not just chemical cues, plays a dominant role in cancer cell migration and metastasis. I showed that CAF (cancer-associated fibroblast) contractility drives stiffening of the ECM and induces nuclear deformation in cancer cells, which activates YAP, a mechanosensitive transcription co-activator. This activation upregulates genes linked to pro-metastatic behavior, including Activin A, a cytokine that further enhances invasion. Additional work published in Scientific Data and Extreme Mechanics Letters includes:
+My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis. I showed that CAF (cancer-associated fibroblast) contractility drives stiffening of the ECM and induces nuclear deformation in cancer cells, which activates YAP, a mechanosensitive transcription co-activator. This activation upregulates genes linked to pro-metastatic behavior, including Activin A, a cytokine that further enhances invasion. Additional work published in Scientific Data and Extreme Mechanics Letters includes:
 * Defining thresholds for phototoxicity in live-cell imaging
 * Transcriptomic changes in mechanosensitive CAFs
 * Mapping fiber alignment under mechanical strain
