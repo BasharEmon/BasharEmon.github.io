@@ -9,6 +9,7 @@ location: "Urbana, USA"
 ---
 I have teaching experience on the following topics: 
 * Mechanobiology
+* Experimental mechanics  
 * Materials testing 
 
 
