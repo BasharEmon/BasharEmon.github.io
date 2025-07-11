@@ -79,9 +79,9 @@ I developed a microfabricated 3D tissue sensor that addresses a long-standing pr
 ## <a name="mechanotransduction"></a>mechanotransduction
 
 My research has revealed that mechanical signaling, not just chemical cues, plays a dominant role in cancer cell migration and metastasis. I showed that CAF (cancer-associated fibroblast) contractility drives stiffening of the ECM and induces nuclear deformation in cancer cells, which activates YAP, a mechanosensitive transcription co-activator. This activation upregulates genes linked to pro-metastatic behavior, including Activin A, a cytokine that further enhances invasion. Additional work published in Scientific Data and Extreme Mechanics Letters includes:
-*Defining thresholds for phototoxicity in live-cell imaging
-*Transcriptomic changes in mechanosensitive CAFs
-*Mapping fiber alignment under mechanical strain
+* Defining thresholds for phototoxicity in live-cell imaging
+* Transcriptomic changes in mechanosensitive CAFs
+* Mapping fiber alignment under mechanical strain
 These findings help build a framework for understanding how physical forces regulate gene expression, migration, and tumor progression.
 
 <img src="/images/YAP animation_3.gif" alt="translation">
