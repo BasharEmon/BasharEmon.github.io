@@ -53,8 +53,26 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
 <div id="innovation" style="position: relative; top: -60px;"></div>
 ## <a name="innovation"></a>innovation
 
-I developed a microfabricated 3D tissue sensor that addresses a long-standing problem in cell mechanics: the inability to measure cellular forces in 3D microenvironments. Unlike traditional 2D traction force microscopy, this platform enables direct quantification of single- and multicellular forces in self-assembled 3D tissues with nanonewton resolution, alongside simultaneous readouts of matrix stiffening. These sensors have been used to uncover dynamic mechanical interactions between cancer cells and stromal fibroblasts, revealing a feedback loop that promotes tumor invasion and remodeling of the extracellular matrix (ECM). Published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.abf2629) & [Nature Protocols](https://www.nature.com/articles/s41596-024-01106-8), this platform lays the foundation for biomechanical assays, drug screening, and ultimately force-informed precision therapies.
-<img src="/images/CAF force timelapse.gif" alt="innovation">
+I developed a microfabricated 3D tissue sensor that addresses a long-standing problem in cell mechanics: the inability to measure cellular forces in 3D microenvironments. Unlike traditional 2D traction force microscopy, this platform enables direct quantification of single- and multicellular forces in self-assembled 3D tissues with nanonewton resolution, alongside simultaneous readouts of matrix stiffening. These sensors have been used to uncover dynamic mechanical interactions between cancer cells and stromal fibroblasts, revealing a feedback loop that promotes tumor invasion and remodeling of the extracellular matrix (ECM). Published in [Science Advances](https://www.science.org/doi/10.1126/sciadv.abf2629) & [Nature Protocols](https://www.nature.com/articles/s41596-024-01106-8), this platform lays the foundation for biomechanical assays, drug screening, and ultimately mechanics-informed precision therapies.
+
+<div style="text-align: center; padding: 20px;">
+  <img src="/images/Sensor_force_SEM.png"
+       alt="Force sensor"
+       style="
+         border-radius: 6px;
+         opacity: 0.9;
+         max-width: 120%;
+         height: 350px;
+         -webkit-mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
+         -webkit-mask-composite: destination-in;
+         mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+         mask-composite: intersect;
+       ">
+</div>
 
  
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
@@ -65,6 +83,7 @@ My research has revealed that mechanical signaling, not just chemical cues, play
 *Transcriptomic changes in mechanosensitive CAFs
 *Mapping fiber alignment under mechanical strain
 These findings help build a framework for understanding how physical forces regulate gene expression, migration, and tumor progression.
+
 <img src="/images/YAP animation_3.gif" alt="translation">
 
 
@@ -73,6 +92,7 @@ These findings help build a framework for understanding how physical forces regu
 
 In our recent PNAS study, we discovered that neuronal contractility is essential for synaptic firing. Using a 3D hippocampal neuron network cultured on a nanonewton-resolution force sensor, we found that neurons generate tension upon forming synapses—and this mechanical tension directly supports their ability to fire. Disrupting contractility caused a ~90% reduction in activity, which reversed upon restoring force, indicating that tension is not just a byproduct, but a requirement for synaptic transmission.
 This work also revealed that contractility promotes vesicle clustering at presynaptic terminals, further supporting its role in synaptic readiness. These findings introduce a new mechanistic paradigm: neurons need physical tension to communicate, with implications for neurodevelopment, learning, and disorders where mechanical integrity is compromised.
+
 <img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 450px;">
 
 
@@ -89,7 +109,8 @@ I will model the brain's biomechanical environment, exploring how astrocyte cont
 *High-Throughput MEMS Sensors
 I aim to design a sensor array system compatible with 96-well formats to enable automated force measurements for drug screening in patient-derived tissues. These platforms will feed into real-time clinical decision tools and customized treatment planning
 *Biohybrid Systems and Wearables
-My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo — bringing mechanical insight directly into the clinic
+My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo, bringing mechanical insight directly into the clinic.
+
 <img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 450px;">
 
 
