@@ -100,11 +100,11 @@ This work also revealed that contractility promotes vesicle clustering at presyn
 ## <a name="translation"></a>mechanics for personalized medicine
 
 Looking ahead, I envision a research program that transforms biomechanics from a basic science tool into a clinical decision-making platform. Key goals include:
-*Mechanomarkers for Prognostics
+* Mechanomarkers for Prognostics
 Using machine learning on tumor histology and mechanical profiles, I aim to identify mechanical signatures (nuclear strain, stiffness, fiber architecture) that predict metastatic potential — a class of diagnostic tools I term “mechanomarkers”
-*Force-Targeted Therapies
+* Force-Targeted Therapies
 By developing contractility-inhibiting devices and using CRISPR-based tools to decouple nuclear deformation from cytoskeletal force, I will test new ways to interrupt the physical drivers of metastasis.
-*Glioblastoma-on-a-Chip
+* Glioblastoma-on-a-Chip
 I will model the brain's biomechanical environment, exploring how astrocyte contractility and ECM remodeling influence glioblastoma spread across the blood-brain barrier
 *High-Throughput MEMS Sensors
 I aim to design a sensor array system compatible with 96-well formats to enable automated force measurements for drug screening in patient-derived tissues. These platforms will feed into real-time clinical decision tools and customized treatment planning
