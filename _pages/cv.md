@@ -51,9 +51,18 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+<!--  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>                            -->
+
+<ul>
+  {% for post in site.teaching reversed %}
+    <li>
+      <strong>{{ post.title }}</strong><br />
+      {{ post.content | markdownify }}
+    </li>
+  {% endfor %}
+</ul>
   
 Service and leadership
 ======
