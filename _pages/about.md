@@ -29,25 +29,42 @@ Overview
 ------
 At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how mechanical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. 
 
-<div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem;">
+<div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem; flex-wrap: wrap; text-align: center;">
 
-  <a href="#innovation">
-    <img src="/images/CAF force timelapse.gif" alt="innovation" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">     <!-- Sensor_force_SEM_crop.png -->
-  </a>
+  <div>
+    <div><strong>Innovation</strong></div>
+    <a href="#innovation">
+      <img src="/images/CAF force timelapse.gif" alt="innovation"
+           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+    </a>
+  </div>
 
-  <a href="#mechanotransduction">
-    <img src="/images/YAP animation_3.gif" alt="mechanotransduction" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
-  </a>
+  <div>
+    <div><strong>Mechanotransduction</strong></div>
+    <a href="#mechanotransduction">
+      <img src="/images/YAP animation_3.gif" alt="mechanotransduction"
+           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+    </a>
+  </div>
 
-  <a href="#neuromechanics">
-    <img src="/images/YAP animation_3.gif" alt="neuromechanics" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
-  </a>
+  <div>
+    <div><strong>Neuromechanics</strong></div>
+    <a href="#neuromechanics">
+      <img src="/images/Neuron actin.gif" alt="neuromechanics"
+           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+    </a>
+  </div>
 
-  <a href="#translation">
-    <img src="/images/Actin_dapi_3D_final.gif" alt="translation" style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
-  </a>
+  <div>
+    <div><strong>Translation</strong></div>
+    <a href="#translation">
+      <img src="/images/Actin_dapi_3D_final.gif" alt="translation"
+           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+    </a>
+  </div>
 
 </div>
+
 
 
 <div id="innovation" style="position: relative; top: -60px;"></div>
@@ -93,7 +110,7 @@ These findings help build a framework for understanding how physical forces regu
 In our recent PNAS study, we discovered that neuronal contractility is essential for synaptic firing. Using a 3D hippocampal neuron network cultured on a nanonewton-resolution force sensor, we found that neurons generate tension upon forming synapses—and this mechanical tension directly supports their ability to fire. Disrupting contractility caused a ~90% reduction in activity, which reversed upon restoring force, indicating that tension is not just a byproduct, but a requirement for synaptic transmission.
 This work also revealed that contractility promotes vesicle clustering at presynaptic terminals, further supporting its role in synaptic readiness. These findings introduce a new mechanistic paradigm: neurons need physical tension to communicate, with implications for neurodevelopment, learning, and disorders where mechanical integrity is compromised.
 
-<img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 450px;">
+<img src="/images/Neuron actin.gif" alt="mechanotransduction" style="height: 450px;">
 
 
 <div id="translation" style="position: relative; top: -60px;"></div>
