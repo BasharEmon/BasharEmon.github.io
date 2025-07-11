@@ -97,7 +97,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 
 <img src="/images/YAP animation_3.gif"
      alt="YAP activation"
-     style="float: right; width: 33%; margin-left: 20px; border-radius: 12px;" />
+     style="float: right; width: 33%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
 
 My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis. I showed that CAF (cancer-associated fibroblast) contractility drives stiffening of the ECM and induces nuclear deformation in cancer cells, which activates YAP, a mechanosensitive transcription co-activator. This activation upregulates genes linked to pro-metastatic behavior, including Activin A, a cytokine that further enhances invasion. Additional work published in Scientific Data and Extreme Mechanics Letters includes:
 * Defining thresholds for phototoxicity in live-cell imaging
