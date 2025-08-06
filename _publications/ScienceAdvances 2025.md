@@ -3,7 +3,7 @@ title: "A forward-engineered, muscle-driven soft robotic swimmer"
 collection: publications
 category: manuscripts
 permalink: /publication/ScienceAdvances 2025
-excerpt: 'We designed and fabricated a muscle-powered flagellate swimmer, and investigated the nonlinear mechanics driving it.'
+excerpt: 'We designed and fabricated a muscle-powered flagellate swimmer integrated with a muscle ring and motor neurons. Improved contractility and nonlinear design allowed for a peak swimming speed of ~87 micrometers per second - about two orders of magnitude higher than previous biohybrid flagellate swimmers.'
 date: 2025-07-16
 venue: 'Science Advances'
 paperurl: 'http://BasharEmon.github.io/files/ScienceAdvances 2025.pdf'
