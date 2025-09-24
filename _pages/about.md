@@ -116,15 +116,48 @@ These findings help build a framework for understanding how physical forces regu
 In our recent study published in <a href="https://www.pnas.org/doi/10.1073/pnas.2311995120" target="_blank">PNAS</a>, we discovered that neuronal contractility is essential for synaptic firing. Using a 3D hippocampal neuron network cultured on a nanonewton-resolution force sensor, we found that neurons generate tension upon forming synapses—and this mechanical tension directly supports their ability to fire. Disrupting contractility caused a ~90% reduction in activity, which reversed upon restoring force, indicating that tension is not just a byproduct, but a requirement for synaptic transmission.
 This work also revealed that contractility promotes vesicle clustering at presynaptic terminals, further supporting its role in synaptic readiness. These findings introduce a new mechanistic paradigm: neurons need physical tension to communicate, with implications for neurodevelopment, learning, and disorders where mechanical integrity is compromised.
 
-<img src="/images/Neuron actin.gif"
-     alt="neuromechanics"
-     style="float: center; width: 65%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
-<img src="/images/Neuron firing.gif"
-     alt="firing"
-     style="float: center; width: 30%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
-<img src="/images/Neuron firing_no force.gif"
-     alt="firing_no force"
-     style="float: center; width: 30%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
+<div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
+
+  <!-- Left column: main image -->
+  <div style="flex: 2; position: relative;">
+    <img src="/images/Neuron actin.gif"
+         alt="neuromechanics"
+         style="width: 100%; border-radius: 12px;" />
+    <div style="position: absolute; bottom: 10px; left: 10px; 
+                background: rgba(0,0,0,0.6); color: #fff; 
+                padding: 5px 10px; border-radius: 6px; font-size: 0.9rem;">
+      Neuromechanics
+    </div>
+  </div>
+
+  <!-- Right column: stacked images -->
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+    
+    <div style="position: relative;">
+      <img src="/images/Neuron firing.gif"
+           alt="firing"
+           style="width: 100%; border-radius: 12px;" />
+      <div style="position: absolute; bottom: 10px; left: 10px; 
+                  background: rgba(0,0,0,0.6); color: #fff; 
+                  padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
+        Firing with Tension
+      </div>
+    </div>
+
+    <div style="position: relative;">
+      <img src="/images/Neuron firing_no force.gif"
+           alt="firing_no_force"
+           style="width: 100%; border-radius: 12px;" />
+      <div style="position: absolute; bottom: 10px; left: 10px; 
+                  background: rgba(0,0,0,0.6); color: #fff; 
+                  padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
+        Firing without Tension
+      </div>
+    </div>
+
+  </div>
+</div>
+
 
 <div id="translation" style="position: relative; top: -60px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
