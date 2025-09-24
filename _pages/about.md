@@ -122,6 +122,9 @@ This work also revealed that contractility promotes vesicle clustering at presyn
 <img src="/images/Neuron firing.gif"
      alt="firing"
      style="float: center; width: 30%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
+<img src="/images/Neuron firing_no force.gif"
+     alt="firing_no force"
+     style="float: center; width: 30%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
 
 <div id="translation" style="position: relative; top: -60px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
