@@ -116,8 +116,9 @@ These findings help build a framework for understanding how physical forces regu
 In our recent PNAS study, we discovered that neuronal contractility is essential for synaptic firing. Using a 3D hippocampal neuron network cultured on a nanonewton-resolution force sensor, we found that neurons generate tension upon forming synapses—and this mechanical tension directly supports their ability to fire. Disrupting contractility caused a ~90% reduction in activity, which reversed upon restoring force, indicating that tension is not just a byproduct, but a requirement for synaptic transmission.
 This work also revealed that contractility promotes vesicle clustering at presynaptic terminals, further supporting its role in synaptic readiness. These findings introduce a new mechanistic paradigm: neurons need physical tension to communicate, with implications for neurodevelopment, learning, and disorders where mechanical integrity is compromised.
 
-<img src="/images/Neuron actin.gif" alt="mechanotransduction" style="height: 450px;">
-
+<img src="/images/Neuron actin.gif"
+     alt="neuromechanics"
+     style="float: right; width: 33%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
 
 <div id="translation" style="position: relative; top: -60px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
