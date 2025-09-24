@@ -118,7 +118,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
 
 <img src="/images/Neuron actin.gif"
      alt="neuromechanics"
-     style="float: center; width: 33%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
+     style="float: center; width: 65%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
 
 <div id="translation" style="position: relative; top: -60px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
