@@ -136,7 +136,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
     <div style="position: relative;">
       <img src="/images/Neuron firing.gif"
            alt="firing"
-           style="width: 95%; border-radius: 12px;" />
+           style="width: 94%; border-radius: 12px;" />
       <div style="position: absolute; bottom: 10px; left: 10px; 
                   background: rgba(0,0,0,0.6); color: #fff; 
                   padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
@@ -147,7 +147,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
     <div style="position: relative;">
       <img src="/images/Neuron firing_no force.gif"
            alt="firing_no_force"
-           style="width: 95%; border-radius: 12px;" />
+           style="width: 94%; border-radius: 12px;" />
       <div style="position: absolute; bottom: 10px; right: 30px; 
                   background: rgba(0,0,0,0.6); color: #fff; 
                   padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
