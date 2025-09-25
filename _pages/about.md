@@ -106,21 +106,21 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
  -->    
 
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">  
-  <div style="flex: 1; position: relative; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
     
-    <div style="position: relative;">
-      <img src="/images/Actin_dapi_3D_final.gif"
-           alt="Actin 3D"
+    <div style="position: right;">
+      <img src="/images/YAP animation_3.gif"
+           alt="YAP activation"
            style="width: 33%; border-radius: 12px;" />
           </div>
 
-    <div style="position: relative;">
-      <img src="/images/YAP animation_3.gif"
-           alt="Yap activation"
+    <div style="position: right;">
+      <img src="/images/Actin_dapi_3D_final.gif"
+           alt="Actin 3D"
            style="width: 33%; border-radius: 12px;" />    
       </div>
     </div>
-</div>
+ </div>
 
 My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis <a href="https://www.nature.com/articles/s41598-025-89152-4" target="_blank">(Scientific Reports)</a>. I demonstrated that CAF (cancer-associated fibroblast) contractility drives alignment of ECM fibers and stiffening and of the TME, inducing nuclear deformation which activates Yes-Associated Protein (YAP), a mechanosensitive transcription co-activator <a href="https://doi.org/10.1016/j.actbio.2023.11.015" target="_blank">(Acta Biomaterialia)</a>. Activation of YAP upregulates genes linked to pro-metastatic behavior, including <a href="https://www.nature.com/articles/s41598-019-55687-6" target="_blank">Activin A</a>, a cytokine that further enhances invasion by the cancer cells. 
 
@@ -201,7 +201,6 @@ Looking ahead, I envision a research program that transforms biomechanics from a
 * **Biohybrid Systems and Wearables**  
   My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo, bringing mechanical insight directly into the clinic.
 
-<img src="/images/Actin_dapi_3D_final.gif" alt="mechanotransduction" style="height: 450px;">
 
 
 <!-- Sensor to measure cell force in 3D matrices. 
