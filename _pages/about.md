@@ -104,8 +104,9 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
      alt="Actin 3D"
      style="float: right; width: 33%; margin-left: 20px; margin-top: 10px; border-radius: 12px;" />
  -->    
-  
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+
+<div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">  
+  <div style="flex: 1; position: relative; display: flex; flex-direction: column; gap: 20px;">
     
     <div style="position: relative;">
       <img src="/images/Actin_dapi_3D_final.gif"
@@ -119,6 +120,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
            style="width: 33%; border-radius: 12px;" />    
       </div>
     </div>
+</div>
 
 My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis <a href="https://www.nature.com/articles/s41598-025-89152-4" target="_blank">(Scientific Reports)</a>. I demonstrated that CAF (cancer-associated fibroblast) contractility drives alignment of ECM fibers and stiffening and of the TME, inducing nuclear deformation which activates Yes-Associated Protein (YAP), a mechanosensitive transcription co-activator <a href="https://doi.org/10.1016/j.actbio.2023.11.015" target="_blank">(Acta Biomaterialia)</a>. Activation of YAP upregulates genes linked to pro-metastatic behavior, including <a href="https://www.nature.com/articles/s41598-019-55687-6" target="_blank">Activin A</a>, a cytokine that further enhances invasion by the cancer cells. 
 
