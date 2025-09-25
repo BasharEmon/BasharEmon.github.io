@@ -99,6 +99,9 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 <img src="/images/YAP animation_3.gif"
      alt="YAP activation"
      style="float: right; width: 33%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
+<img src="/images/Actin_dapi_3D_final.gif"
+     alt="Actin 3D"
+     style="float: right; width: 33%; margin-left: 20px; margin-top: 10px; border-radius: 12px;" />
 
 My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis <a href="https://www.nature.com/articles/s41598-025-89152-4" target="_blank">(Scientific Reports)</a>. I demonstrated that CAF (cancer-associated fibroblast) contractility drives alignment of ECM fibers and stiffening and of the TME, inducing nuclear deformation which activates Yes-Associated Protein (YAP), a mechanosensitive transcription co-activator <a href="https://doi.org/10.1016/j.actbio.2023.11.015" target="_blank">(Acta Biomaterialia)</a>. Activation of YAP upregulates genes linked to pro-metastatic behavior, including <a href="https://www.nature.com/articles/s41598-019-55687-6" target="_blank">Activin A</a>, a cytokine that further enhances invasion by the cancer cells. 
 
@@ -114,7 +117,7 @@ Collectively, these findings build a mechanistic framework for how forces shape 
 <div id="neuromechanics" style="position: relative; top: -60px;"></div>
 ## <a name="translation"></a>neuromechanics
 
-In our recent study published in <a href="https://www.pnas.org/doi/10.1073/pnas.2311995120" target="_blank">PNAS</a>, we discovered that neuronal contractility is essential for synaptic firing. Using a 3D hippocampal neuron network cultured on a nanonewton-resolution force sensor, we found that neurons generate tension upon forming synapses—and this mechanical tension directly supports their ability to fire. Disrupting contractility caused a ~90% reduction in activity, which reversed upon restoring force, indicating that tension is not just a byproduct, but a requirement for synaptic transmission.
+In a recent collaboration published in <a href="https://www.pnas.org/doi/10.1073/pnas.2311995120" target="_blank">PNAS</a>, we discovered that neuronal contractility is essential for synaptic firing. Using a 3D hippocampal neuron network cultured on a nanonewton-resolution force sensor, we found that neurons generate tension upon forming synapses—and this mechanical tension directly supports their ability to fire. Disrupting contractility caused a ~90% reduction in activity, which reversed upon restoring force, indicating that tension is not just a byproduct, but a requirement for synaptic transmission.
 This work also revealed that contractility promotes vesicle clustering at presynaptic terminals, further supporting its role in synaptic readiness. These findings introduce a new mechanistic paradigm: neurons need physical tension to communicate, with implications for neurodevelopment, learning, and disorders where mechanical integrity is compromised.
 
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
@@ -126,7 +129,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
          style="width: 100%; border-radius: 12px;" />
     <div style="position: absolute; bottom: 10px; left: 10px; 
                 background: rgba(0,0,0,0.6); color: #fff; 
-                padding: 5px 10px; border-radius: 6px; font-size: 0.9rem;">
+                padding: 5px 10px; border-radius: 6px; font-size: 1rem;">
       Actin dynamics in neurons
     </div>
   </div>
