@@ -100,14 +100,15 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
      alt="YAP activation"
      style="float: right; width: 33%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
 
-My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis. I demonstrated that CAF (cancer-associated fibroblast) contractility drives alignment of ECM fibers and stiffening and of the TME, inducing nuclear deformation which activates Yes-Associated Protein (YAP), a mechanosensitive transcription co-activator. Activation of YAP upregulates genes linked to pro-metastatic behavior, including Activin A, a cytokine that further enhances invasion by the cancer cells. 
+My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis (<a href="https://www.nature.com/articles/s41598-025-89152-4" target="_blank">Scientific Reports</a>). I demonstrated that CAF (cancer-associated fibroblast) contractility drives alignment of ECM fibers and stiffening and of the TME, inducing nuclear deformation which activates Yes-Associated Protein (YAP), a mechanosensitive transcription co-activator (<a href="https://www.sciencedirect.com/science/article/pii/S174270612300661X" target="_blank">Acta Biomaterialia</a>). Activation of YAP upregulates genes linked to pro-metastatic behavior, including <a href="https://www.nature.com/articles/s41598-019-55687-6" target="_blank">Activin A</a>, a cytokine that further enhances invasion by the cancer cells. 
 
-Additional work published in Scientific Data and Extreme Mechanics Letters includes:
-* Defining thresholds for phototoxicity in live-cell imaging
-* Transcriptomic changes in mechanosensitive CAFs
-* Mapping fiber alignment under mechanical strain 
+Other highlights of my work include:
 
-These findings help build a framework for understanding how physical forces regulate gene expression, migration, and tumor progression.
+* Determining illumination/fluorescence intensity thresholds for live-cell imaging to prevent phototoxic artifacts.
+* Publishing a transcriptomic dataset of mechanosensitive CAFs, linking force-driven remodeling to gene expression.
+* Establishing traction as a cytotoxicity readout - I demonstrated that cell traction measurements can serve as an early, sensitive metric of cytotoxic response, often preceding morphological changes, thereby enabling force-based toxicity screening that complements viability and biochemical assays.
+
+Collectively, these findings build a mechanistic framework for how forces shape cell behavior and tumor progression, opening new avenues for clinical translation. 
 
 
 <div id="neuromechanics" style="position: relative; top: -60px;"></div>
