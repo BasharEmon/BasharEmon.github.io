@@ -123,7 +123,6 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
  </div>
 -->
 
-
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
   <!-- Text Section -->
   <div style="flex: 2;">
@@ -137,9 +136,8 @@ Other highlights of my work include:
 * Establishing traction as a cytotoxicity readout - I demonstrated that cell traction measurements can serve as an early, sensitive metric of cytotoxic response, often preceding morphological changes, thereby enabling force-based toxicity screening that complements viability and biochemical assays <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.8b04513" target="_blank">(ACS Nano</a> & <a href="https://www.nature.com/articles/s41928-022-00791-1" target="_blank">Nature Electronics)</a>.
 
 Collectively, these findings build a mechanistic framework for how forces shape cell behavior and tumor progression, opening new avenues for clinical translation. 
-
     </p>
-  </div>
+</div>
 
   <!-- Image Section -->
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">  
