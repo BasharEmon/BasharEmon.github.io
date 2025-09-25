@@ -96,12 +96,41 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
 
+
 <img src="/images/YAP animation_3.gif"
      alt="YAP activation"
      style="float: right; width: 33%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
 <img src="/images/Actin_dapi_3D_final.gif"
      alt="Actin 3D"
      style="float: right; width: 33%; margin-left: 20px; margin-top: 10px; border-radius: 12px;" />
+     
+  
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+    
+    <div style="position: relative;">
+      <img src="/images/Neuron firing.gif"
+           alt="firing"
+           style="width: 94%; border-radius: 12px;" />
+      <div style="position: absolute; bottom: 10px; left: 10px; 
+                  background: rgba(0,0,0,0.6); color: #fff; 
+                  padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
+        Firing with tension
+      </div>
+    </div>
+
+    <div style="position: relative;">
+      <img src="/images/Neuron firing_no force.gif"
+           alt="firing_no_force"
+           style="width: 94%; border-radius: 12px;" />
+      <div style="position: absolute; bottom: 10px; right: 30px; 
+                  background: rgba(0,0,0,0.6); color: #fff; 
+                  padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
+        Firing w/o tension
+      </div>
+    </div>
+
+  </div>
+</div>
 
 My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis <a href="https://www.nature.com/articles/s41598-025-89152-4" target="_blank">(Scientific Reports)</a>. I demonstrated that CAF (cancer-associated fibroblast) contractility drives alignment of ECM fibers and stiffening and of the TME, inducing nuclear deformation which activates Yes-Associated Protein (YAP), a mechanosensitive transcription co-activator <a href="https://doi.org/10.1016/j.actbio.2023.11.015" target="_blank">(Acta Biomaterialia)</a>. Activation of YAP upregulates genes linked to pro-metastatic behavior, including <a href="https://www.nature.com/articles/s41598-019-55687-6" target="_blank">Activin A</a>, a cytokine that further enhances invasion by the cancer cells. 
 
