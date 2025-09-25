@@ -104,9 +104,9 @@ My research has revealed that mechanical signaling, not just chemical cues, play
 
 Other highlights of my work include:
 
-* Determining illumination/fluorescence intensity thresholds for live-cell imaging to prevent phototoxic artifacts.
-* Publishing a transcriptomic dataset of mechanosensitive CAFs, linking force-driven remodeling to gene expression.
-* Establishing traction as a cytotoxicity readout - I demonstrated that cell traction measurements can serve as an early, sensitive metric of cytotoxic response, often preceding morphological changes, thereby enabling force-based toxicity screening that complements viability and biochemical assays.
+* Determining illumination/fluorescence intensity thresholds for live-cell imaging to prevent phototoxic artifacts (<a href="https://www.sciencedirect.com/science/article/pii/S2352431621000493" target="_blank">Extreme Mechanics Letters</a>).
+* Publishing a transcriptomic dataset of mechanosensitive CAFs, linking force-driven matrix stiffening to gene expression (<a href="https://www.nature.com/articles/s41597-023-02233-9" target="_blank">Scientific Data</a>).
+* Establishing traction as a cytotoxicity readout - I demonstrated that cell traction measurements can serve as an early, sensitive metric of cytotoxic response, often preceding morphological changes, thereby enabling force-based toxicity screening that complements viability and biochemical assays (<a href="https://pubs.acs.org/doi/full/10.1021/acsnano.8b04513" target="_blank">ACS Nano</a> & <a href="https://www.nature.com/articles/s41928-022-00791-1" target="_blank">Nature Electronics</a>).
 
 Collectively, these findings build a mechanistic framework for how forces shape cell behavior and tumor progression, opening new avenues for clinical translation. 
 
