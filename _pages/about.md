@@ -93,6 +93,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 </div>
 
 
+
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
 
@@ -131,6 +132,7 @@ Other highlights of my work include:
 * Establishing traction as a cytotoxicity readout - I demonstrated that cell traction measurements can serve as an early, sensitive metric of cytotoxic response, often preceding morphological changes, thereby enabling force-based toxicity screening that complements viability and biochemical assays <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.8b04513" target="_blank">(ACS Nano</a> & <a href="https://www.nature.com/articles/s41928-022-00791-1" target="_blank">Nature Electronics)</a>.
 
 Collectively, these findings build a mechanistic framework for how forces shape cell behavior and tumor progression, opening new avenues for clinical translation. 
+
 
 
 <div id="neuromechanics" style="position: relative; top: -60px;"></div>
@@ -180,6 +182,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
 
   </div>
 </div>
+
 
 
 <div id="translation" style="position: relative; top: -60px;"></div>
