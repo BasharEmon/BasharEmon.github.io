@@ -151,7 +151,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
     <div style="position: absolute; bottom: 10px; left: 10px; 
                 background: rgba(0,0,0,0.6); color: #fff; 
                 padding: 5px 10px; border-radius: 6px; font-size: 1rem;">
-      Actin dynamics in neurons
+      Actin dynamics in neurons on the sensor
     </div>
   </div>
 
