@@ -93,18 +93,8 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 </div>
 
 
-
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
-
-<!--
-<img src="/images/YAP animation_3.gif"
-     alt="YAP activation"
-     style="float: right; width: 33%; margin-left: 20px; margin-top: 20px; border-radius: 12px;" />
-<img src="/images/Actin_dapi_3D_final.gif"
-     alt="Actin 3D"
-     style="float: right; width: 33%; margin-left: 20px; margin-top: 10px; border-radius: 12px;" />
--->
 
 <!-- Image column floats right -->
 <div style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 20px; align-items: flex-end;">
@@ -115,7 +105,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 
   <img src="/images/Actin_dapi_3D_final.gif"
        alt="Actin 3D"
-       style="width: 350px; border-radius: 12px;" />
+       style="width: 250px; border-radius: 12px;" />
 
 </div>
 
