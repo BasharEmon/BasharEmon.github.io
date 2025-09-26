@@ -58,7 +58,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
   <div>
     <div><strong>Translation</strong></div>
     <a href="#translation">
-      <img src="/images/Actin_dapi_3D_final_crop.gif" alt="translation"
+      <img src="/images/Actin_dapi_3D_final.gif" alt="translation"
            style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
     </a>
   </div>
@@ -103,7 +103,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
        alt="YAP activation"
        style="width: 330px; border-radius: 12px;" />
 
-  <img src="/images/Actin_dapi_3D_final.gif"
+  <img src="/images/Actin_dapi_3D_final_crop.gif"
        alt="Actin 3D"
        style="width: 250px; border-radius: 12px;" />
 </div>
