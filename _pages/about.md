@@ -58,7 +58,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
   <div>
     <div><strong>Translation</strong></div>
     <a href="#translation">
-      <img src="/images/Actin_dapi_3D_final.gif" alt="translation"
+      <img src="/images/Actin_dapi_3D_final_crop.gif" alt="translation"
            style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
     </a>
   </div>
