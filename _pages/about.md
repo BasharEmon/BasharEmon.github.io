@@ -193,14 +193,14 @@ Looking ahead, I envision a research program that transforms biomechanics from a
   Using machine learning on tumor histology and mechanical profiles, I aim to identify mechanical signatures (nuclear strain, stiffness, fiber architecture) that predict metastatic potential — a class of diagnostic tools I term “mechanomarkers”.
 
 * **Force-Targeted Therapies**  
-  By developing contractility-inhibiting devices and using CRISPR-based tools to decouple nuclear deformation from cytoskeletal force, I will test new ways to interrupt the physical drivers of metastasis.
+  Through contractility-inhibiting devices and CRISPR-based tools to decouple nuclear deformation from cytoskeletal force, I plan to test new ways to interrupt the physical drivers of metastasis.
 
 * **Glioblastoma-on-a-Chip**  
-  I will model the brain's biomechanical environment, exploring how astrocyte contractility and ECM remodeling influence glioblastoma spread across the blood-brain barrier.
+  Modeling the brain's biomechanical environment will allow exploration of how astrocyte contractility and ECM remodeling influence glioblastoma spread across the blood-brain barrier.
 
 * **High-Throughput MEMS Sensors**  
-  I aim to design a sensor array system compatible with 96-well formats to enable automated force measurements for drug screening in patient-derived tissues. These platforms will feed into real-time clinical decision tools and customized treatment planning.
-
+  A sensor array system will enable automated measurements of biomechanical indicators (mechanomarkers!) for drug screening in patient-derived tissues. These platforms can feed into real-time clinical decision tools and customized treatment planning.
+  
 * **Biohybrid Systems and Wearables**  
   My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo, bringing mechanical insight directly into the clinic.
 
