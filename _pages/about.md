@@ -97,16 +97,15 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 ## <a name="mechanotransduction"></a>mechanotransduction
 
 <!-- Image column floats right -->
-<div style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 20px; align-items: flex-end;">
+<div style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 10px; align-items: flex-end;">
 
   <img src="/images/YAP animation_3.gif"
        alt="YAP activation"
-       style="width: 350px; border-radius: 12px;" />
+       style="width: 330px; border-radius: 12px;" />
 
   <img src="/images/Actin_dapi_3D_final.gif"
        alt="Actin 3D"
        style="width: 250px; border-radius: 12px;" />
-
 </div>
 
 
