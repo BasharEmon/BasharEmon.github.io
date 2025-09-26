@@ -101,11 +101,11 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 
   <img src="/images/YAP animation_3.gif"
        alt="YAP activation"
-       style="width: 325px; border-radius: 12px;" />
+       style="width: 320px; border-radius: 12px;" />
 
   <img src="/images/Actin_dapi_3D_final_crop.gif"
        alt="Actin 3D"
-       style="width: 325px; border-radius: 12px;" />
+       style="width: 320px; border-radius: 12px;" />
 </div>
 
 
