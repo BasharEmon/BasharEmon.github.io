@@ -106,11 +106,19 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
      style="float: right; width: 33%; margin-left: 20px; margin-top: 10px; border-radius: 12px;" />
 -->
 
-<div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
+<!-- Image column floats right -->
+<div style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 20px; align-items: flex-end;">
 
-  <!-- LEFT COLUMN: text -->
-  <div style="flex: 2;">
-    <p>
+  <img src="/images/YAP animation_3.gif"
+       alt="YAP activation"
+       style="width: 350px; border-radius: 12px;" />
+
+  <img src="/images/Actin_dapi_3D_final.gif"
+       alt="Actin 3D"
+       style="width: 350px; border-radius: 12px;" />
+
+</div>
+
       My research has revealed that mechanical signaling, not just chemical cues, plays a critical role in cancer cell migration and metastasis <a href="https://www.nature.com/articles/s41598-025-89152-4" target="_blank">(Scientific Reports)</a>. I demonstrated that CAF (cancer-associated fibroblast) contractility drives alignment of ECM fibers and stiffening and of the TME, inducing nuclear deformation which activates Yes-Associated Protein (YAP), a mechanosensitive transcription co-activator <a href="https://doi.org/10.1016/j.actbio.2023.11.015" target="_blank">(Acta Biomaterialia)</a>. Activation of YAP upregulates genes linked to pro-metastatic behavior, including <a href="https://www.nature.com/articles/s41598-019-55687-6" target="_blank">Activin A</a>, a cytokine that further enhances invasion by the cancer cells. 
 
 Other highlights of my work include:
@@ -120,22 +128,6 @@ Other highlights of my work include:
 * Establishing traction as a cytotoxicity readout - I demonstrated that cell traction measurements can serve as an early, sensitive metric of cytotoxic response, often preceding morphological changes, thereby enabling force-based toxicity screening that complements viability and biochemical assays <a href="https://pubs.acs.org/doi/full/10.1021/acsnano.8b04513" target="_blank">(ACS Nano</a> & <a href="https://www.nature.com/articles/s41928-022-00791-1" target="_blank">Nature Electronics)</a>.
 
 Collectively, these findings build a mechanistic framework for how forces shape cell behavior and tumor progression, opening new avenues for clinical translation. 
-
-    </p>
-  </div>
-
-  <!-- RIGHT COLUMN: images stacked -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px; align-items: flex-end;">
-    <img src="/images/YAP animation_3.gif"
-         alt="YAP activation"
-         style="width: 100%; max-width: 250px; border-radius: 12px;" />
-
-    <img src="/images/Actin_dapi_3D_final.gif"
-         alt="Actin 3D"
-         style="width: 100%; max-width: 250px; border-radius: 12px;" />
-  </div>
-
-</div>
 
 
 
