@@ -190,6 +190,18 @@ Looking ahead, I envision a research program that transforms biomechanics from a
 * **Biohybrid Systems and Wearables**  
   My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo, bringing mechanical insight directly into the clinic.
 
+<div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
+
+  <div style="flex: 2; position: relative;">
+    <img src="/images/Translation.gif"
+         alt="Translation"
+         style="width: 100%; border-radius: 12px;" />
+    <div style="position: absolute; bottom: 10px; left: 10px; 
+                background: rgba(0,0,0,0.6); color: #fff; 
+                padding: 5px 10px; border-radius: 6px; font-size: 0.5rem;">
+      illustration adapted from smart.servier.com
+    </div>
+  </div>
 
 
 <!-- Sensor to measure cell force in 3D matrices. 
