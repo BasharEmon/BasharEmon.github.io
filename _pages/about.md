@@ -195,7 +195,7 @@ Looking ahead, I envision a research program that transforms biomechanics from a
   <div style="flex: 2; position: relative;">
     <img src="/images/Translation.gif"
          alt="Translation"
-         style="width: 100%; border-radius: 12px;" />
+         style="height: 350px ; border-radius: 12px;" />
     <div style="position: absolute; bottom: 10px; left: 10px; 
                 background: rgb(255, 255, 255); color: #ccc; 
                 padding: 5px 10px; border-radius: 6px; font-size: 0.5rem;">
