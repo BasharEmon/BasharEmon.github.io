@@ -197,7 +197,7 @@ Looking ahead, I envision a research program that transforms biomechanics from a
          alt="Translation"
          style="width: 100%; border-radius: 12px;" />
     <div style="position: absolute; bottom: 10px; left: 10px; 
-                background: rgba(0,0,0,0.6); color: #fff; 
+                background: rgb(255, 255, 255); color: #ccc; 
                 padding: 5px 10px; border-radius: 6px; font-size: 0.5rem;">
       illustration adapted from smart.servier.com
     </div>
