@@ -192,12 +192,12 @@ Looking ahead, I envision a research program that transforms biomechanics from a
 
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
 
-  <div style="flex: 2; position: relative;">
+  <div style="flex: 2; position: relative; display: flex; justify-content: center;">
     <img src="/images/Translation.gif"
          alt="Translation"
-         style="height: 350px ; border-radius: 12px;" />
+         style="height: 400px ; width: 70%; border-radius: 12px;" />
     <div style="position: absolute; bottom: 10px; left: 10px; 
-                background: rgb(255, 255, 255); color: #ccc; 
+                color: #ccc; 
                 padding: 5px 10px; border-radius: 6px; font-size: 0.5rem;">
       illustration adapted from smart.servier.com
     </div>
