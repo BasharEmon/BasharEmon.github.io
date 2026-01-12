@@ -195,8 +195,16 @@ Looking ahead, I envision a research program that transforms biomechanics from a
   <div style="flex: 2; position: relative; display: flex; justify-content: center;">
     <img src="/images/Translation.gif"
          alt="Translation"
-         style="height: 400px ; width: 70%; border-radius: 12px;" />
-    <div style="position: absolute; bottom: 10px; left: 10px; 
+         style="height: 400px ; width: 70%; border-radius: 12px; 
+         -webkit-mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
+         -webkit-mask-composite: destination-in;
+         mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+         mask-composite: intersect;" />
+    <div style="position: absolute; bottom: 10px; left: 20%; 
                 color: #ccc; 
                 padding: 5px 10px; border-radius: 6px; font-size: 0.5rem;">
       illustration adapted from smart.servier.com
