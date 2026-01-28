@@ -84,8 +84,8 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   <img src="/images/Sensor_force_SEM.png"
        alt="Force sensor"
        style="
-         width: 45%;
-         max-width: 500px;
+         width: 65%;
+         max-width: 1000px;
          height: auto;
          border-radius: 6px;
          opacity: 0.9;
@@ -102,19 +102,11 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   <img src="/images/CAF force timelapse.gif"
        alt="CAF force timelapse"
        style="
-         width: 45%;
+         width: 30%;
          max-width: 500px;
          height: auto;
          border-radius: 6px;
          opacity: 0.9;
-         -webkit-mask-image:
-           linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
-           linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
-         -webkit-mask-composite: destination-in;
-         mask-image:
-           linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
-           linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
-         mask-composite: intersect;
        ">
 
 </div>
