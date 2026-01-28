@@ -73,14 +73,22 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
 During my PhD, under the guidance of Professor Taher Saif, I developed a microfabricated force sensor that addresses a long-standing problem in cell/tissue mechanics: the inability to measure cellular forces in 3D microenvironments that evolve mechanically with time. Unlike traditional 2D traction force microscopy, this platform enables direct quantification of single- and multicellular forces in self-assembled 3D tissues with nanonewton resolution, alongside simultaneous readouts of matrix stiffening. These sensors have been employed to uncover dynamic mechanical interactions between cancer cells and stromal fibroblasts, revealing a feedback mechanism that promotes tumor invasion and remodeling of the extracellular matrix (ECM). Published in <a href="https://www.science.org/doi/10.1126/sciadv.abf2629" target="_blank">Science Advances</a> & 
 <a href="https://www.nature.com/articles/s41596-024-01106-8" target="_blank">Nature Protocols</a>, this platform lays the foundation for biomechanical assays, drug screening, and ultimately mechanics-informed precision therapies. 
 
-<div style="text-align: center; padding: 20px;">
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+  flex-wrap: wrap;
+">
+
   <img src="/images/Sensor_force_SEM.png"
        alt="Force sensor"
        style="
          border-radius: 6px;
          opacity: 0.9;
-         max-width: 120%;
          height: 350px;
+         max-width: 100%;
          -webkit-mask-image: 
            linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
@@ -90,16 +98,14 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
            linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
          mask-composite: intersect;
        ">
-</div>
 
-<div style="text-align: center; padding: 20px;">
   <img src="/images/CAF force timelapse.gif"
-       alt="innovation"
+       alt="CAF force timelapse"
        style="
          border-radius: 6px;
          opacity: 0.9;
-         max-width: 120%;
          height: 350px;
+         max-width: 100%;
          -webkit-mask-image: 
            linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
@@ -109,6 +115,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
            linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
          mask-composite: intersect;
        ">
+
 </div>
 
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
