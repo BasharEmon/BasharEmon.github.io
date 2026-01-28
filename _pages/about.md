@@ -111,7 +111,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 </div>
 
 
-<div id="mechanotransduction" style="position: relative; top: -60px;"></div>
+<div id="mechanotransduction" style="position: relative; top: -40px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
 
 <!-- Image column floats right -->
