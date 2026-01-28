@@ -77,7 +77,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 30px;
+  gap: 00px;
   padding: 00px;
   flex-wrap: wrap;
 ">
@@ -104,10 +104,10 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
        style="
          border-radius: 6px;
          opacity: 0.9;
-         height: 250px;
+         height: 200px;
+         width: 600px;
          max-width: 100%;
        ">
-
 </div>
 
 
