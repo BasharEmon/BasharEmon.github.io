@@ -106,7 +106,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
          opacity: 0.9;
          width: 670px;
          max-width: 100%;
-         margin-left: 10px;
+         margin-left: 15px;
        ">
 </div>
 
