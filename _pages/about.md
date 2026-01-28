@@ -104,7 +104,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
        style="
          border-radius: 20px;
          opacity: 0.9;
-         width: 750px;
+         width: 700px;
          max-width: 100%;
        ">
 </div>
