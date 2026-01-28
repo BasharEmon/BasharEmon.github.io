@@ -79,21 +79,21 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   align-items: center;
   gap: 30px;
   padding: 20px;
-  flex-wrap: wrap;
 ">
 
   <img src="/images/Sensor_force_SEM.png"
        alt="Force sensor"
        style="
+         width: 45%;
+         max-width: 500px;
+         height: auto;
          border-radius: 6px;
          opacity: 0.9;
-         height: 350px;
-         max-width: 100%;
-         -webkit-mask-image: 
+         -webkit-mask-image:
            linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
          -webkit-mask-composite: destination-in;
-         mask-image: 
+         mask-image:
            linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
          mask-composite: intersect;
@@ -102,21 +102,24 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   <img src="/images/CAF force timelapse.gif"
        alt="CAF force timelapse"
        style="
+         width: 45%;
+         max-width: 500px;
+         height: auto;
          border-radius: 6px;
          opacity: 0.9;
-         height: 350px;
-         max-width: 100%;
-         -webkit-mask-image: 
+         -webkit-mask-image:
            linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
          -webkit-mask-composite: destination-in;
-         mask-image: 
+         mask-image:
            linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
          mask-composite: intersect;
        ">
 
 </div>
+
+
 
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
