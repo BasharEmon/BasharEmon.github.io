@@ -92,6 +92,24 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
        ">
 </div>
 
+<div style="text-align: center; padding: 20px;">
+  <img src="/images/CAF force timelapse.gif"
+       alt="innovation"
+       style="
+         border-radius: 6px;
+         opacity: 0.9;
+         max-width: 120%;
+         height: 350px;
+         -webkit-mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
+         -webkit-mask-composite: destination-in;
+         mask-image: 
+           linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+         mask-composite: intersect;
+       ">
+</div>
 
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
 ## <a name="mechanotransduction"></a>mechanotransduction
