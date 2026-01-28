@@ -78,22 +78,22 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   justify-content: center;
   align-items: center;
   gap: 30px;
-  padding: 20px;
+  padding: 00px;
+  flex-wrap: wrap;
 ">
 
   <img src="/images/Sensor_force_SEM.png"
        alt="Force sensor"
        style="
-         width: 65%;
-         max-width: 1000px;
-         height: auto;
          border-radius: 6px;
          opacity: 0.9;
-         -webkit-mask-image:
+         height: 300px;
+         max-width: 120%;
+         -webkit-mask-image: 
            linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 30%, black 90%, transparent 100%);
          -webkit-mask-composite: destination-in;
-         mask-image:
+         mask-image: 
            linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
          mask-composite: intersect;
@@ -102,15 +102,13 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   <img src="/images/CAF force timelapse.gif"
        alt="CAF force timelapse"
        style="
-         width: 30%;
-         max-width: 500px;
-         height: auto;
          border-radius: 6px;
          opacity: 0.9;
+         height: 250px;
+         max-width: 100%;
        ">
 
 </div>
-
 
 
 <div id="mechanotransduction" style="position: relative; top: -60px;"></div>
