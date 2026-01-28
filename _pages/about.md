@@ -102,9 +102,9 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   <img src="/images/CAF force timelapse.gif"
        alt="CAF force timelapse"
        style="
-         border-radius: 8px;
+         border-radius: 20px;
          opacity: 0.9;
-         width: 600px;
+         width: 750px;
          max-width: 100%;
        ">
 </div>
