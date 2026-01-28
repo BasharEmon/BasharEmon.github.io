@@ -189,7 +189,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
 
 
 
-<div id="translation" style="position: relative; top: -80px;"></div>
+<div id="translation" style="position: relative; top: -20px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
 
 Looking ahead, I envision a research program that transforms biomechanics from a basic science tool into a clinical decision-making platform. Key goals include:
