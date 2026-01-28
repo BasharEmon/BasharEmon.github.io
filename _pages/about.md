@@ -87,7 +87,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
        style="
          border-radius: 6px;
          opacity: 0.9;
-         height: 300px;
+         height: 350px;
          max-width: 120%;
          -webkit-mask-image: 
            linear-gradient(to bottom, transparent 0%, black 25%, black 85%, transparent 100%),
@@ -102,10 +102,9 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
   <img src="/images/CAF force timelapse.gif"
        alt="CAF force timelapse"
        style="
-         border-radius: 6px;
+         border-radius: 8px;
          opacity: 0.9;
-         height: 225px;
-         width: 500px;
+         width: 600px;
          max-width: 100%;
        ">
 </div>
