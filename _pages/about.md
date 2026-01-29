@@ -213,18 +213,18 @@ Looking ahead, I envision a research program that transforms biomechanics from a
   <div style="flex: 2; position: relative; display: flex; justify-content: center;">
     <img src="/images/Translation_thumb.gif"
          alt="Translation"
-         style="width: 100%; border-radius: 12px; 
+         style="width: 95%; border-radius: 12px; 
          -webkit-mask-image: 
-           linear-gradient(to bottom, transparent 0%, black 3%, black 97%, transparent 100%),
-           linear-gradient(to right, transparent 0%, black 3%, black 97%, transparent 100%);
+           linear-gradient(to bottom, transparent 0%, black 4%, black 96%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%);
          -webkit-mask-composite: destination-in;
          mask-image: 
-           linear-gradient(to bottom, transparent 0%, black 3%, black 97%, transparent 100%),
-           linear-gradient(to right, transparent 0%, black 3%, black 97%, transparent 100%); 
+           linear-gradient(to bottom, transparent 0%, black 4%, black 96%, transparent 100%),
+           linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%); 
          mask-composite: intersect;" />
-    <div style="position: absolute; bottom: 10px; left: 5%; 
+    <div style="position: absolute; bottom: 10px; left: 0%; 
                 color: #ccc; 
-                padding: 5px 10px; border-radius: 6px; font-size: 1.5rem;">
+                padding: 5px 10px; border-radius: 6px; font-size: .8rem;">
       mechanics-informed medicine
     </div>
   </div>
