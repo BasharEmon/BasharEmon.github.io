@@ -58,7 +58,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
   <div>
     <div><strong>Translation</strong></div>
     <a href="#translation">
-      <img src="/images/Translation_thumb.gif" alt="translation"
+      <img src="/images/Translation.gif" alt="translation"
            style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
     </a>
   </div>
@@ -211,7 +211,7 @@ Looking ahead, I envision a research program that transforms biomechanics from a
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
 
   <div style="flex: 2; position: relative; display: flex; justify-content: center;">
-    <img src="/images/Translation.gif"
+    <img src="/images/Translation_thumb.gif"
          alt="Translation"
          style="height: 400px ; width: 70%; border-radius: 12px; 
          -webkit-mask-image: 
