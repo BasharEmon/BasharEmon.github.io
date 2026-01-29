@@ -211,7 +211,7 @@ Looking ahead, I envision a research program that transforms biomechanics from a
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
 
   <div style="flex: 2; position: relative; display: flex; justify-content: center;">
-    <img src="/images/Translation_thumb.gif"
+    <img src="/images/Translation_thumb.mp4"
          alt="Translation"
          style="width: 95%; border-radius: 12px; 
          -webkit-mask-image: 
@@ -251,7 +251,6 @@ Description of the sensor and image below in italic.
          mask-composite: intersect;
        ">
 </div>
-
 
 
 In addition, this sensor platform can simultaneously monitor/measure the evolution of matrix mechanical properties, and test drug efficacy in cancer treatment. This method marks a significant advancement in the field as this platform solved a long-standing problem of directly measuring force dynamics in an active matrix, which mimics in vivo mechanical microenvironment. 
