@@ -211,7 +211,7 @@ Looking ahead, I envision a research program that transforms biomechanics from a
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
 
   <div style="flex: 2; position: relative; display: flex; justify-content: center;">
-    <img src="/images/Translation_thumb_fast.gif"
+    <img src="/images/Translation_thumb_v2.gif"
          alt="Translation"
          style="width: 95%; border-radius: 12px; 
          -webkit-mask-image: 
