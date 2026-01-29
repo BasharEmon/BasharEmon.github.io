@@ -194,7 +194,7 @@ This work also revealed that contractility promotes vesicle clustering at presyn
 
 Looking ahead, I envision a research program that transforms biomechanics from a basic science tool into a clinical platform. Key goals include:
 * **Mechanomarkers for Prognostics**  
-  Using machine learning on tumor histology and mechanical profiles, I aim to identify mechanical signatures (nuclear strain, stiffness, fiber architecture) that predict metastatic potential — a class of diagnostic tools I term “mechanomarkers”.
+  Using machine learning on tumor histology and mechanical profiles, I aim to identify mechanical signatures (nuclear strain, stiffness, fiber architecture) that predict metastatic potential - a class of diagnostic tools I term “mechanomarkers”.
 
 * **Force-Targeted Therapies**  
   Through contractility-inhibiting devices and CRISPR-based tools to decouple nuclear deformation from cytoskeletal force, I plan to test new ways to interrupt the physical drivers of metastasis.
