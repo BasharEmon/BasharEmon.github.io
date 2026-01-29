@@ -67,7 +67,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
 
 
 
-<div id="innovation" style="position: relative; top: -60px;"></div>
+<div id="innovation" style="position: relative; top: -10px;"></div>
 ## <a name="innovation"></a>innovation
 
 During my PhD, under the guidance of Professor Taher Saif, I developed a microfabricated force sensor that addresses a long-standing problem in cell/tissue mechanics: the inability to measure cellular forces in 3D microenvironments that evolve mechanically with time. Unlike traditional 2D traction force microscopy, this platform enables direct quantification of single- and multicellular forces in self-assembled 3D tissues with nanonewton resolution, alongside simultaneous readouts of matrix stiffening. These sensors have been employed to uncover dynamic mechanical interactions between cancer cells and stromal fibroblasts, revealing a feedback mechanism that promotes tumor invasion and remodeling of the extracellular matrix (ECM). Published in <a href="https://www.science.org/doi/10.1126/sciadv.abf2629" target="_blank">Science Advances</a> & 
