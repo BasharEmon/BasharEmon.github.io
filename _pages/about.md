@@ -222,7 +222,7 @@ Looking ahead, I envision a research program that transforms biomechanics from a
            linear-gradient(to bottom, transparent 0%, black 4%, black 96%, transparent 100%),
            linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%); 
          mask-composite: intersect;" />
-    <div style="position: absolute; bottom: 10px; left: 0%; 
+    <div style="position: absolute; bottom: 10px; left: 05%; 
                 color: #ccc; 
                 padding: 5px 10px; border-radius: 6px; font-size: .8rem;">
       mechanics-informed medicine
