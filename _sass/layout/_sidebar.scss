@@ -20,10 +20,20 @@
   @media screen and (min-width: 1200px) {
     height: 100vh;
     width: 25vw;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
     padding-top: $masthead-height;
+
+    overflow-y: auto;
+
+    /* 👇 move scrollbar to the LEFT */
+    direction: rtl;
   }
+}
+
+/* 👇 restore normal text/layout inside */
+.sidebar > * {
+  direction: ltr;
+}
 
   @include breakpoint($large) {
     @include span(2 of 12);
