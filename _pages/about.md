@@ -35,7 +35,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
     <div><strong>Innovation</strong></div>
     <a href="#innovation">
       <img src="/images/CAF force timelapse.gif" alt="innovation"
-           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+           style="height: 175px; width: auto; object-fit: contain; border-radius: 12px;">
     </a>
   </div>
 
@@ -43,7 +43,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
     <div><strong>Mechanotransduction</strong></div>
     <a href="#mechanotransduction">
       <img src="/images/YAP animation_3.gif" alt="mechanotransduction"
-           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+           style="height: 175px; width: auto; object-fit: contain; border-radius: 12px;">
     </a>
   </div>
 
@@ -51,7 +51,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
     <div><strong>Neuromechanics</strong></div>
     <a href="#neuromechanics">
       <img src="/images/Neuron actin.gif" alt="neuromechanics"
-           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+           style="height: 175px; width: auto; object-fit: contain; border-radius: 12px;">
     </a>
   </div>
 
@@ -59,7 +59,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
     <div><strong>Translation</strong></div>
     <a href="#translation">
       <img src="/images/Translation_image.png" alt="translation"
-           style="height: 200px; width: auto; object-fit: contain; border-radius: 12px;">
+           style="height: 175px; width: auto; object-fit: contain; border-radius: 12px;">
     </a>
   </div>
 
