@@ -3,7 +3,7 @@ title: "Biomechanical 3D tumor models on a micro-milled high-throughput force se
 collection: publications
 category: manuscripts
 permalink: /publication/Biofabrication 2026
-excerpt: 'Here, we present a 3D tumor model integrated with a high-throughput biomechanical sensor array that enables simultaneous measurement of cellular forces and matrix remodeling. The platform, fabricated using a scalable and cost-effective micro-milling approach, supports the parallel generation of multiple tumor constructs within a single dish. To demonstrate feasibility, we formed in vitro tumors using patient-derived pancreatic ductal adenocarcinoma organoids and stromal fibroblasts; and evaluated responses to chemotherapy drugs. By combining biochemical and biomechanical readouts, this 3D platform provides a more physiologically relevant tumor model and a powerful tool for preclinical drug testing and personalized medicine.'
+excerpt: 'We developed a high-throughput 3D tumor platform that integrates patient-derived pancreatic cancer organoids with a biomechanical sensor array to simultaneously measure cellular forces and matrix remodeling. Built using a scalable micro-milling approach, the system enables parallel drug testing with both biochemical and biomechanical readouts for more physiologically relevant preclinical screening and personalized medicine.'
 date: 2026-03-27
 venue: 'Biofabrication'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1758-5090/ae5347'
