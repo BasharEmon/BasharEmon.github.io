@@ -121,15 +121,18 @@
   }
 
   .masthead__menu-item:first-child {
-    font-size: 1.05rem;
-    line-height: 1.2;
-    padding-right: 3rem;
+    font-size: 1.6rem;
+    line-height: 1.15;
+    padding-right: 0;
     text-align: left;
-    width: auto;
+
+    /* leave room for hamburger */
+    width: calc(100% - 3.5rem);
+    max-width: calc(100% - 3.5rem);
   }
 
   .masthead__menu-item:first-child a {
-    white-space: nowrap;
+    white-space: normal;
     margin-left: 0;
   }
 
