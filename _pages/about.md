@@ -11,9 +11,36 @@ redirect_from:
   table a:hover {
     color: var(--in-page-menu-hover-color);
   }
+
+  /* Mobile only: allow the content navigation table to wrap */
+  @media screen and (max-width: 767px) {
+    .content-nav {
+      display: block;
+      width: 100%;
+    }
+
+    .content-nav tbody {
+      display: block;
+      width: 100%;
+    }
+
+    .content-nav tr {
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+      gap: 6px 18px;
+    }
+
+    .content-nav td {
+      display: block;
+      width: auto;
+      padding: 4px 0 !important;
+      white-space: nowrap;
+    }
+  }
 </style>
 
-<table style="width:100%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold;">
+<table class="content-nav" style="width:100%; border:0; border-collapse:separate;text-align:left;font-size:1.3em;font-weight:bold;">
   <tr>
     <td style="border:0; border-style:none;"><a href="/about/">Home/Research</a></td>
     <td style="border:0; border-style:none;"><a href="/publications/">Publications</a></td>
