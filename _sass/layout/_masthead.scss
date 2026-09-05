@@ -107,3 +107,30 @@
     background-color: var(--masthead-bg-color) !important;
   }
 }
+
+/* ==========================================================
+   MOBILE ONLY — masthead site title
+   Desktop remains completely unchanged
+   ========================================================== */
+
+@media screen and (max-width: 767px) {
+
+  .masthead__inner-wrap {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .masthead__menu-item:first-child {
+    font-size: 1.05rem;
+    line-height: 1.2;
+    padding-right: 3rem;
+    text-align: left;
+    width: auto;
+  }
+
+  .masthead__menu-item:first-child a {
+    white-space: nowrap;
+    margin-left: 0;
+  }
+
+}
