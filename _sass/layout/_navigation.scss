@@ -446,3 +446,22 @@
     }
   }
 }
+
+/* =========================================================
+   MOBILE NAVIGATION ONLY
+   Keep desktop navigation completely unchanged
+   ========================================================= */
+
+@media screen and (max-width: 767px) {
+
+  .greedy-nav .visible-links {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .greedy-nav .visible-links li {
+    display: block;
+  }
+
+}
