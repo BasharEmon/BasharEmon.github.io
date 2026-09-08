@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: ""
+seo_title: "Bashar Emon, PhD"
+description: "Bashar Emon, PhD, is a researcher in biomechanics, mechanobiology, MEMS, tumor microenvironment mechanics, and microphysiological systems at the University of Illinois Urbana-Champaign."
 author_profile: true
 redirect_from: 
   - /about/
