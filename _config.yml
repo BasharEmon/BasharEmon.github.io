@@ -19,7 +19,7 @@ title                    : "Tissue MicroEnvironment Mechanics <span style='font-
                                  # "Mechanics of Engineered μ-Models & Systems 
 title_separator          : "-"
 name                     : &name "Bashar Emon"
-description              : &description "personal description"
+description              : &description "Bashar Emon, PhD, is a researcher in biomechanics, mechanobiology, MEMS, tumor microenvironment mechanics, and microphysiological systems at the University of Illinois Urbana-Champaign."
 url                      : https://BasharEmon.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BasharEmon.github.io"
