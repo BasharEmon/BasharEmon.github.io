@@ -131,10 +131,11 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-4;
-  color: var(--global-link-color);
+  color: #1f4e79;
   text-align: left;
   text-indent: 0em;
   display: block;
@@ -144,6 +145,7 @@
 
 .sidebar .author__desktop {
   display: none;
+
   @media screen and (min-width: 1024px) {
     display: block;
   }
@@ -160,11 +162,18 @@
 
 .author__bio {
   margin: 0;
+  color: #1f4e79;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
   }
+}
+
+/* Dark theme */
+html[data-theme="dark"] .sidebar .author__name,
+html[data-theme="dark"] .author__bio {
+  color: #7fa6c9;
 }
 
 .author__urls-wrapper {
