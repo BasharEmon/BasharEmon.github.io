@@ -265,19 +265,19 @@ Together, these directions establish a unified framework in which fundamental me
 <div style="font-size:0.9em;" markdown="1">
   
 **Biomechanical 3D tumor models on a micro-milled high-throughput force sensor array**  
-Emon, B., Kashefi, A., Rahman, M. H., Adnan, D., ... ..., Bishehsari, F., & Saif, M.T.A., *Biofabrication*, 18, 025015 (2026). https://doi.org/10.1088/1758-5090/ae5347
+Emon, B. et al., **Biofabrication**, 18, 025015 (2026). https://doi.org/10.1088/1758-5090/ae5347
 
 **A multifunctional sensor for cell traction force, matrix remodeling and biomechanical assays in self-assembled 3D tissues in vitro**  
-Emon, B., Joy, M.S.H., Drennan, W.C. et al., *Nature Protocols* (2025). https://doi.org/10.1038/s41596-024-01106-8
+Emon, B et al., **Nature Protocols**, 20, 2005–2033 (2025) . https://doi.org/10.1038/s41596-024-01106-8
 
 **Nuclear deformation regulates YAP dynamics in cancer associated fibroblasts**  
-Emon, B., Joy, M.S.H., Lalonde, L., Ghrayeb, A., Doha, U., Ladehoff, L., Brockstein, R., Saengow, C., Ewoldt, R.H., Saif, M.T.A., *Acta Biomaterialia*, 173, 93–108 (2024). https://doi.org/10.1016/j.actbio.2023.11.015
+Emon, B. et al., **Acta Biomaterialia**, 173, 93–108 (2024). https://doi.org/10.1016/j.actbio.2023.11.015
 
 **A novel method for sensor-based quantification of single/multi-cellular traction dynamics and remodeling in 3D matrices**  
-Emon, B., Li, Z., Joy, M.S.H., Doha, U., Kosari, F., & Saif, M.T.A., *Science Advances*, 7(15), eabf2629 (2021). https://doi.org/10.1126/sciadv.abf2629
+Emon, B. et al., **Science Advances**, 7(15), eabf2629 (2021). https://doi.org/10.1126/sciadv.abf2629
 
 **Dose-independent threshold illumination for non-invasive time-lapse fluorescence imaging of live cells**  
-Emon, B., Knoll, S., Doha, U., Ladehoff, L., Lalonde, L., Baietto, D., Sivaguru, M., Bhargava, R., & Saif, M.T.A., *Extreme Mechanics Letters*, 46, 101249 (2021). https://doi.org/10.1016/j.eml.2021.101249
+Emon, B. et al., **Extreme Mechanics Letters**, 46, 101249 (2021). https://doi.org/10.1016/j.eml.2021.101249
 
 </div>
 
