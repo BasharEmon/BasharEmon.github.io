@@ -12,18 +12,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Theoretical & Applied Mechanics, University of Illinois at Urbana-Champaign, 2023
+* Ph.D. in Theoretical & Applied Mechanics, University of Illinois Urbana-Champaign, 2023
 * M.Sc. in Civil & Structural Engineering, Bangladesh University of Engineering & Technology (BUET), 2014
 * B.S. in Civil Engineering, Bangladesh University of Engineering & Technology (BUET), 2012
 
-Work experience
+Appointments
 ======
+* Teaching Lab Coordinator, Mechanical Testing Instructional Laboratory (2025-present)<br>
+  Grainger College of Engineering, University of Illinois Urbana-Champaign
 
-* Postdoctoral Research Associate (2023-present)<br>
-  Department of Mechanical Science & Engineering, University of Illinois at Urbana-Champaign
+* Postdoctoral Research Associate (2023-2025)<br>
+  Department of Mechanical Science & Engineering, University of Illinois Urbana-Champaign
 
 * Graduate Research Assistant (2017-2023)<br>
-  Department of Mechanical Science & Engineering, University of Illinois at Urbana-Champaign
+  Department of Mechanical Science & Engineering, University of Illinois Urbana-Champaign
 
 * Assistant Professor (2015-2017)<br>
   Department of Civil Engineering, Bangladesh University of Engineering & Technology, Dhaka-1000
