@@ -32,7 +32,7 @@ author:
   avatar           : "Bashar_Emon_sq_gpt_final.png"
   name             : "Bashar Emon, PhD"
   pronouns         : # example: "she/her"  
-  bio              : '<span style="color:#1f4e79;"><strong>Mechanics of Living Systems</strong><br><span style="font-size:1em;">mechanobiology · MEMS · microphysiological systems</span></span>'      #"Mechanics of living systems <br> mechanobiology · MEMS · microphysiological systems"            #"I explore mechanics in microphysiological systems."
+  bio              : '<span style="color:var(--global-link-color);"><strong>Mechanics of Living Systems</strong><br><span style="font-size:0.9em;">mechanobiology <span style="font-size:1.4em;">·</span> MEMS <span style="font-size:1.4em;">·</span> microphysiological systems</span></span>'      #"Mechanics of living systems <br> mechanobiology · MEMS · microphysiological systems"            #"I explore mechanics in microphysiological systems."
   location         : "Champaign, Illinois<br>United States"
   employer         : "University of Illinois<br>Urbana-Champaign" 
   uri              : # URL
