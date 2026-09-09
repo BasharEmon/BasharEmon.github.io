@@ -30,7 +30,7 @@ repository               : "BasharEmon.github.io"
 author:
   # Biographic information
   avatar           : "Bashar_Emon_sq_gpt_final.png"
-  name             :          #'<span style="color:#1f4e79;">Bashar Emon, PhD</span>'
+  name             : "Bashar Emon, PhD"
   pronouns         : # example: "she/her"  
   bio              : '<span style="color:#1f4e79;"><strong>Mechanics of Living Systems</strong><br><span style="font-size:0.9em;">mechanobiology · MEMS · microphysiological systems</span></span>'      #"Mechanics of living systems <br> mechanobiology · MEMS · microphysiological systems"            #"I explore mechanics in microphysiological systems."
   location         : "Champaign, Illinois<br>United States"
