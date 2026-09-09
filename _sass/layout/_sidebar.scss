@@ -173,7 +173,7 @@
 /* Dark theme */
 html[data-theme="dark"] .sidebar .author__name,
 html[data-theme="dark"] .author__bio {
-  color: #4A90E2;
+  color: var(--global-link-color);
 }
 
 .author__urls-wrapper {
