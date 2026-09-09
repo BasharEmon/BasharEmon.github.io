@@ -262,6 +262,8 @@ Together, these directions establish a unified framework in which fundamental me
 
 ### Selected Publications
 
+<div style="font-size:0.9em;" markdown="1">
+  
 **Biomechanical 3D tumor models on a micro-milled high-throughput force sensor array**  
 Emon, B., Kashefi, A., Rahman, M. H., Adnan, D., ... ..., Bishehsari, F., & Saif, M.T.A., *Biofabrication*, 18, 025015 (2026). https://doi.org/10.1088/1758-5090/ae5347
 
@@ -277,6 +279,7 @@ Emon, B., Li, Z., Joy, M.S.H., Doha, U., Kosari, F., & Saif, M.T.A., *Science Ad
 **Dose-independent threshold illumination for non-invasive time-lapse fluorescence imaging of live cells**  
 Emon, B., Knoll, S., Doha, U., Ladehoff, L., Lalonde, L., Baietto, D., Sivaguru, M., Bhargava, R., & Saif, M.T.A., *Extreme Mechanics Letters*, 46, 101249 (2021). https://doi.org/10.1016/j.eml.2021.101249
 
+</div>
 
 
 <!-- Looking ahead, I envision a research program that leverages biomechanical insight to drive transformative advances in medicine. Key goals include:
