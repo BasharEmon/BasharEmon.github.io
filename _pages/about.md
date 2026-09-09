@@ -229,7 +229,7 @@ I aim to uncover how physical forces, tissue mechanics, and extracellular matrix
 
 ### 2. Mechanics-Based Diagnostics and Therapeutics
 
-A major goal of my research is to translate biomechanical measurements into clinically actionable tools. By integrating tumor histology, tissue mechanics, and machine learning, I will identify mechanical signatures—such as nuclear strain, tissue stiffness, cellular force, and fiber architecture—that predict disease progression and therapeutic response. I refer to these predictive mechanical signatures as **mechanomarkers**. In parallel, I will develop **force-targeted therapeutic strategies**, including approaches that suppress pathological cell contractility or decouple nuclear deformation from cytoskeletal force, to test whether disrupting the mechanical drivers of disease can limit invasion and metastasis.
+A major goal of my research is to translate biomechanical measurements into clinically actionable tools. By integrating tumor histology, tissue mechanics, and machine learning, I will identify mechanical signatures, such as nuclear strain, tissue stiffness, cellular force, and fiber architecture, that predict disease progression and therapeutic response. I refer to these predictive mechanical signatures as **mechanomarkers**. In parallel, I will develop **force-targeted therapeutic strategies**, including approaches that suppress pathological cell contractility or decouple nuclear deformation from cytoskeletal force, to test whether disrupting the mechanical drivers of disease can limit invasion and metastasis.
 
 ### 3. Engineered Living Systems and Biomechanical Technologies
 
