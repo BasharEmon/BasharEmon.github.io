@@ -48,7 +48,7 @@ redirect_from:
     <td style="border:0; border-style:none;"><a href="/publications/">Publications</a></td>
     <td style="border:0; border-style:none;"><a href="/talks/">Talks</a></td>
     <td style="border:0; border-style:none;"><a href="/teaching/">Teaching</a></td>
-    <td style="border:0; border-style:none;"><a href="/portfolio/">Honors/Awards</a></td>
+    <td style="border:0; border-style:none;"><a href="/portfolio/">Honors & Awards</a></td>
     <td style="border:0; border-style:none;"><a href="/cv/">CV</a></td>
     <td style="border:0; border-style:none;"><a href="/contact/">Contact</a></td>
   </tr>
