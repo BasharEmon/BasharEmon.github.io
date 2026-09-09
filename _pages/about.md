@@ -221,21 +221,21 @@ This work also revealed that contractility promotes vesicle clustering at presyn
 <div id="translation" style="position: relative; top: -20px;"></div>
 ## <a name="translation"></a>mechanics for personalized medicine
 
-Looking ahead, I envision a research program that leverages biomechanical insight to drive transformative advances in medicine. Key goals include:
-* **Mechanomarkers for Prognostics**  
-  Using machine learning on tumor histology and mechanical profiles, I aim to identify mechanical signatures (nuclear strain, stiffness, fiber architecture) that predict metastatic potential - a class of diagnostic tools I term “mechanomarkers”.
+Looking ahead, I envision an interdisciplinary research program that uses mechanics to understand disease, identify predictive biomechanical signatures, and develop technologies for personalized diagnosis and therapy. My future work will center on three interconnected directions:
 
-* **Force-Targeted Therapies**  
-  Through contractility-inhibiting devices and CRISPR-based tools to decouple nuclear deformation from cytoskeletal force, I plan to test new ways to interrupt the physical drivers of metastasis.
+### 1. Mechanobiology of Disease
 
-* **Glioblastoma-on-a-Chip**  
-  Modeling the brain's biomechanical environment will allow exploration of how astrocyte contractility and ECM remodeling influence glioblastoma spread across the blood-brain barrier.
+I aim to uncover how physical forces, tissue mechanics, and extracellular matrix remodeling regulate disease progression. In cancer, I will investigate how cellular contractility, nuclear deformation, and matrix architecture influence invasion and metastasis. These studies will extend to complex disease models such as **glioblastoma-on-a-chip**, where engineered brain-like microenvironments can reveal how astrocyte contractility, ECM remodeling, and blood-brain-barrier mechanics regulate tumor dissemination.
 
-* **High-Throughput MEMS Sensors**  
-  A sensor array system will enable automated measurements of biomechanical indicators (mechanomarkers!) for drug screening in patient-derived tissues. These platforms can feed into real-time clinical decision tools and customized treatment planning.
-  
-* **Biohybrid Systems and Wearables**  
-  My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo, bringing mechanical insight directly into the clinic.
+### 2. Mechanics-Based Diagnostics and Therapeutics
+
+A major goal of my research is to translate biomechanical measurements into clinically actionable tools. By integrating tumor histology, tissue mechanics, and machine learning, I will identify mechanical signatures—such as nuclear strain, tissue stiffness, cellular force, and fiber architecture—that predict disease progression and therapeutic response. I refer to these predictive mechanical signatures as **mechanomarkers**. In parallel, I will develop **force-targeted therapeutic strategies**, including approaches that suppress pathological cell contractility or decouple nuclear deformation from cytoskeletal force, to test whether disrupting the mechanical drivers of disease can limit invasion and metastasis.
+
+### 3. Engineered Living Systems and Biomechanical Technologies
+
+To enable these studies at scale, I will develop next-generation platforms for measuring and manipulating mechanics in living tissues. **High-throughput MEMS sensor arrays** will provide automated measurements of force, stiffness, remodeling, and other mechanomarkers in patient-derived tissues, creating opportunities for drug screening and personalized treatment selection. Over the longer term, I envision extending these technologies toward **implantable and biohybrid systems**, including sensors integrated with iPSC-derived muscle actuators and wearable or implantable devices capable of monitoring mechanical and physiological signals in vivo.
+
+Together, these directions establish a unified framework in which fundamental mechanobiology informs new diagnostic markers and therapeutic strategies, while advanced sensing technologies provide the tools needed to translate mechanical insight toward personalized medicine.
 
 <div style="display: flex; gap: 20px; margin-top: 20px; align-items: flex-start;">
 
@@ -257,6 +257,42 @@ Looking ahead, I envision a research program that leverages biomechanical insigh
       mechanics-informed medicine
     </div>
   </div>
+
+## Selected Publications
+
+### Biomechanical 3D tumor models on a micro-milled high-throughput force sensor array
+Emon, B., Kashefi, A., Rahman, M. H., Adnan, D.,  ... ..., F. Bishehsari & M.T.A. Saif, Biofabrication, 18, 025015 (2026), https://doi.org/10.1088/1758-5090/ae5347 
+
+### A multifunctional sensor for cell traction force, matrix remodeling and biomechanical assays in self-assembled 3D tissues in vitro
+Emon, B., Joy, M.S.H., Drennan, W.C. et al., Nature Protocols (2025). https://doi.org/10.1038/s41596-024-01106-8
+
+### Nuclear deformation regulates YAP dynamics in cancer associated fibroblasts
+Emon, B., Joy, M.S.H., Lalonde, L., Ghrayeb, A., Doha, U., Ladehoff, L., Brockstein, R., Saengow, C., Ewoldt, R.H., Saif, M.T.A., Acta Biomaterialia. 173, 93–108 (2024). https://doi.org/10.1016/j.actbio.2023.11.015
+
+### A novel method for sensor-based quantification of single/multi-cellular traction dynamics and remodeling in 3D matrices
+Emon, B., Li, Z., Joy, M.S.H., Doha, U., Kosari, F., & Saif, M.T.A., Science Advances, 7 (15), eabf2629, (2021), https://doi.org/10.1126/sciadv.abf2629
+
+### Dose-independent threshold illumination for non-invasive time-lapse fluorescence imaging of live cells
+Emon, B., Knoll, S., Doha, U., Ladehoff, L., Lalonde, L., Baietto, D., Sivaguru, M., Bhargava, R., & Saif, M.T.A., Extreme Mechanics Letters, 46, 10124, (2021), https://doi.org/10.1016/j.eml.2021.101249 
+
+
+
+<!-- Looking ahead, I envision a research program that leverages biomechanical insight to drive transformative advances in medicine. Key goals include:
+* **Mechanomarkers for Prognostics**  
+  Using machine learning on tumor histology and mechanical profiles, I aim to identify mechanical signatures (nuclear strain, stiffness, fiber architecture) that predict metastatic potential - a class of diagnostic tools I term “mechanomarkers”.
+
+* **Force-Targeted Therapies**  
+  Through contractility-inhibiting devices and CRISPR-based tools to decouple nuclear deformation from cytoskeletal force, I plan to test new ways to interrupt the physical drivers of metastasis.
+
+* **Glioblastoma-on-a-Chip**  
+  Modeling the brain's biomechanical environment will allow exploration of how astrocyte contractility and ECM remodeling influence glioblastoma spread across the blood-brain barrier.
+
+* **High-Throughput MEMS Sensors**  
+  A sensor array system will enable automated measurements of biomechanical indicators (mechanomarkers!) for drug screening in patient-derived tissues. These platforms can feed into real-time clinical decision tools and customized treatment planning.
+  
+* **Biohybrid Systems and Wearables**  
+  My long-term vision includes implantable MEMS devices and biohybrid sensors using iPSC-derived muscle actuators, capable of monitoring real-time force and physiological cues in vivo, bringing mechanical insight directly into the clinic.  -->
+
 
 
 <!-- Sensor to measure cell force in 3D matrices. 
