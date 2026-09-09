@@ -257,7 +257,7 @@ Together, these directions establish a unified framework in which fundamental me
       mechanics-informed medicine
     </div>
   </div>
-
+</div>
 
 
 ### Selected Publications
