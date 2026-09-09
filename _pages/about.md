@@ -260,7 +260,7 @@ Together, these directions establish a unified framework in which fundamental me
 
 
 
-## Selected Publications
+### Selected Publications
 
 **Biomechanical 3D tumor models on a micro-milled high-throughput force sensor array**  
 Emon, B., Kashefi, A., Rahman, M. H., Adnan, D., ... ..., Bishehsari, F., & Saif, M.T.A., *Biofabrication*, 18, 025015 (2026). https://doi.org/10.1088/1758-5090/ae5347
