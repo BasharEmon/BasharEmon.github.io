@@ -281,3 +281,33 @@ html[data-theme="dark"] .author__bio {
     }
   }
 }
+
+@media screen and (max-width: 767px) {
+
+  .author__avatar {
+    width: 80px;
+    height: auto;
+    vertical-align: top;
+  }
+
+  .author__avatar img {
+    max-width: 80px;
+  }
+
+  .author__content {
+    padding-left: 12px;
+    padding-right: 8px;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    width: 80px;
+    margin-top: 6px;
+    text-align: center;
+  }
+
+  .author__urls-wrapper button {
+    font-size: 0.75em;
+    padding: 4px 8px;
+  }
+}
