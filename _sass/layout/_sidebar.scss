@@ -285,7 +285,7 @@ html[data-theme="dark"] .author__bio {
 @media screen and (max-width: 767px) {
 
   .author__avatar {
-    width: 85px;
+    width: 90px;
     height: auto;
     vertical-align: top;
   }
@@ -301,13 +301,14 @@ html[data-theme="dark"] .author__bio {
 
   .author__urls-wrapper {
     display: block;
-    width: 120px;
-    margin-top: -4px;
-    text-align: center;
+    width: 130px;
+    margin-top: -6px;
+    text-align: left;
   }
 
   .author__urls-wrapper button {
     font-size: 0.75em;
-    padding: 2px 4px;
+    padding: 3px 8px;
+    transform: translateX(-20px);
   }
 }
