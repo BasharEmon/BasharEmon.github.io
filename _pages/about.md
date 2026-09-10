@@ -18,8 +18,8 @@ redirect_from:
   @media screen and (max-width: 767px) {
     .content-nav {
       display: block;
-      width: 110%;
-      font-size: 0.9em !important;
+      width: 120%;
+      font-size: 1.1em !important;
     }
 
     .content-nav tbody {
