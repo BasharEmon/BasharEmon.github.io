@@ -209,14 +209,14 @@ This work also revealed that contractility promotes vesicle clustering at presyn
   </div>
 
   <!-- Right column: stacked images -->
-  <div class="neuron-caption"
-       style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
     
     <div style="position: relative;">
       <img src="/images/Neuron firing.gif"
            alt="firing"
            style="width: 94%; border-radius: 12px;" />
-      <div style="position: absolute; bottom: 10px; left: 10px; 
+      <div class="neuron-caption"
+           style="position: absolute; bottom: 10px; left: 10px; 
                   background: rgba(0,0,0,0.6); color: #fff; 
                   padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
         Firing with tension
@@ -227,7 +227,8 @@ This work also revealed that contractility promotes vesicle clustering at presyn
       <img src="/images/Neuron firing_no force.gif"
            alt="firing_no_force"
            style="width: 94%; border-radius: 12px;" />
-      <div style="position: absolute; bottom: 10px; right: 30px; 
+      <div class="neuron-caption"
+           style="position: absolute; bottom: 10px; right: 30px; 
                   background: rgba(0,0,0,0.6); color: #fff; 
                   padding: 5px 10px; border-radius: 6px; font-size: 0.85rem;">
         Firing w/o tension
