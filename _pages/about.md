@@ -41,6 +41,12 @@ redirect_from:
       padding: 4px 0 !important;
       white-space: nowrap;
     }
+    
+    .sensor-force-image {
+      width: 100% !important;
+      max-width: 100% !important;
+      height: auto !important;
+    }
   }
 </style>
 
@@ -114,6 +120,7 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 ">
 
   <img src="/images/Sensor_force_SEM.png"
+       class="sensor-force-image"
        alt="Force sensor"
        style="
          border-radius: 6px;
