@@ -20,7 +20,7 @@ redirect_from:
       display: block;
       width: 100%;
       font-size: 1.1em !important;
-      margin-top: -12px;
+      margin-top: -15px;
     }
 
     .content-nav tbody {
@@ -56,6 +56,10 @@ redirect_from:
       border-radius: 0 !important;
       font-size: 0.8rem !important;
       line-height: 1.2;
+    }
+
+    .content-nav + h2 {
+      margin-top: -2px !important;
     }
   }
 </style>
