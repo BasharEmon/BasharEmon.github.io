@@ -59,7 +59,7 @@ redirect_from:
     }
 
     .content-nav + h2 {
-      margin-top: -2px !important;
+      margin-top: 0px !important;
     }
   }
 </style>
