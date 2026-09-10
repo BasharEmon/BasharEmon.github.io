@@ -61,6 +61,23 @@ redirect_from:
     .content-nav + h2 {
       margin-top: 0px !important;
     }
+
+    .yap-images {
+      float: none !important;
+      width: 100%;
+      margin: 8px 0 12px 0 !important;
+      flex-direction: row !important;
+      justify-content: center;
+      align-items: center !important;
+      gap: 8px !important;
+    }
+  
+    .yap-images img {
+      height: 140px !important;
+      width: auto !important;
+      max-width: calc(50% - 4px) !important;
+      object-fit: contain;
+    }
   }
 </style>
 
@@ -167,7 +184,8 @@ During my PhD, under the guidance of Professor Taher Saif, I developed a microfa
 ## <a name="mechanotransduction"></a>mechanotransduction
 
 <!-- Image column floats right -->
-<div style="float: right; margin-left: 20px; margin-top: 15px; display: flex; flex-direction: column; gap: 10px; align-items: flex-end;">
+<div class="yap-images"
+     style="float: right; margin-left: 20px; margin-top: 15px; display: flex; flex-direction: column; gap: 10px; align-items: flex-end;">
 
   <img src="/images/YAP animation_3.gif"
        alt="YAP activation"
