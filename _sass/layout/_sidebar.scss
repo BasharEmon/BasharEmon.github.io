@@ -302,13 +302,13 @@ html[data-theme="dark"] .author__bio {
   .author__urls-wrapper {
     display: block;
     width: 130px;
-    margin-top: -6px;
+    margin-top: -2px;
     text-align: left;
   }
 
   .author__urls-wrapper button {
     font-size: 0.75em;
     padding: 3px 8px;
-    transform: translateX(+10px);
+    transform: translateX(+20px);
   }
 }
