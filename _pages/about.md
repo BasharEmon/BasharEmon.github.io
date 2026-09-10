@@ -19,7 +19,7 @@ redirect_from:
     .content-nav {
       display: block;
       width: 100%;
-      font-size: 1.1em !important;
+      font-size: 1.0em !important;
       margin-top: -12px;
     }
 
