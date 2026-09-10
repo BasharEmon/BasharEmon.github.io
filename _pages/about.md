@@ -20,7 +20,7 @@ redirect_from:
       display: block;
       width: 100%;
       font-size: 1.1em !important;
-      margin-top: -8px;
+      margin-top: -12px;
     }
 
     .content-nav tbody {
