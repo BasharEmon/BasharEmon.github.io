@@ -75,7 +75,7 @@ redirect_from:
     .yap-images img {
       height: 140px !important;
       width: auto !important;
-      max-width: calc(50% - 4px) !important;
+      /* max-width: calc(50% - 4px) !important;  */
       object-fit: contain;
     }
   }
