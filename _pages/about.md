@@ -47,6 +47,16 @@ redirect_from:
       max-width: 100% !important;
       height: auto !important;
     }
+
+    .neuron-caption {
+      position: static !important;
+      background: none !important;
+      color: inherit !important;
+      padding: 4px 2px 0 2px !important;
+      border-radius: 0 !important;
+      font-size: 0.8rem !important;
+      line-height: 1.2;
+    }
   }
 </style>
 
@@ -190,15 +200,17 @@ This work also revealed that contractility promotes vesicle clustering at presyn
     <img src="/images/Neuron actin.gif"
          alt="neuromechanics"
          style="width: 100%; border-radius: 12px;" />
-    <div style="position: absolute; bottom: 10px; left: 10px; 
-                background: rgba(0,0,0,0.6); color: #fff; 
+    <div class="neuron-caption"
+         style="position: absolute; bottom: 10px; left: 10px;  
+                background: rgba(0,0,0,0.6); color: #fff;  
                 padding: 5px 10px; border-radius: 6px; font-size: 1rem;">
       Actin dynamics in neurons on the sensor
     </div>
   </div>
 
   <!-- Right column: stacked images -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
+  <div class="neuron-caption"
+       style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
     
     <div style="position: relative;">
       <img src="/images/Neuron firing.gif"
