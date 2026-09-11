@@ -2,9 +2,9 @@
 title: "Philosophy"
 collection: teaching
 type: ""
-permalink: ""
+permalink: /teaching/UIUC
 venue: ""
-date: ""
+date: 2026-06-01
 location: ""
 ---
 
