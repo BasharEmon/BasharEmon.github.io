@@ -33,7 +33,7 @@ During my graduate studies at UIUC, I also mentored undergraduate researchers th
 
 I was also selected as a **Mavis Future Faculty Fellow** through the Grainger College of Engineering. The program provided formal training in engineering education, including STEM communication, feedback and assessment, rubric design, collaborative learning, and communicating technical research.
 
-## Teaching at Bangladesh University of Engineering and Technology
+## Teaching at BUET
 
 Before beginning my doctoral studies, I served on the faculty of the Department of Civil Engineering at **Bangladesh University of Engineering and Technology (BUET)** for five years. This experience provided the foundation for my teaching philosophy and gave me extensive experience teaching undergraduate engineering mechanics.
 
