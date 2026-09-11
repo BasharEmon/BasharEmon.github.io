@@ -1,6 +1,6 @@
 ---
 title: "University of Illinois Urbana-Champaign"
-collection: teaching
+<!-- collection: teaching -->
 type: "Undergraduate courses"
 permalink: /teaching/UIUC
 venue: "UIUC, Mechanical Science & Engineering"
