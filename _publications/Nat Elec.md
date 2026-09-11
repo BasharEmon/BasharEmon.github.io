@@ -7,7 +7,7 @@ excerpt: 'Here we report ecoresorbable and bioresorbable MEMS that are based on 
 date: 2022-07-21
 venue: 'Nature Electronics'
 paperurl: 'http://BasharEmon.github.io/files/Nat Elec.pdf'
-citation: 'Yang, Q., Liu, TL., Xue, Y., Wang, H., Xu, Y., <b>Emon, B.</b> et al. Ecoresorbable and bioresorbable microelectromechanical systems. Nat Electron 5, 526–538 (2022). https://doi.org/10.1038/s41928-022-00791-1'
+citation: 'Q. Yang, T.L. Liu, Y. Xue, H. Wang, Y. Xu, <b>B. Emon</b> et al. Ecoresorbable and bioresorbable microelectromechanical systems. Nat Electron 5, 526–538 (2022). https://doi.org/10.1038/s41928-022-00791-1'
 
 ---
 
