@@ -55,7 +55,16 @@ My goal as a research mentor is to develop independent researchers rather than s
 
 I view mentoring as a progression from guided learning toward intellectual independence. Students should ultimately be able to formulate questions, design experiments, make informed decisions, evaluate results critically, and communicate their work effectively. I strive to create an environment in which students are comfortable asking questions, discussing alternative interpretations, and learning from both successful and unsuccessful experiments.
 
-## Courses I Can Teach and Develop
+## Teaching Interests
+
+My teaching interests span mechanics, materials, experimental methods, and biomechanics, with particular emphasis on connecting fundamental mechanics to modern experimental technologies and biological systems.
+
+**Core areas**: Mechanics of Materials, Engineering Materials, Experimental Mechanics, Finite Element Methods
+**Advanced topics**: Cellular Mechanobiology, Micro-Electro-Mechanical Systems (MEMS), Microphysiological Systems, Mechanics in Physiology & Pathology, and Emergent Biohybrid Systems
+
+
+
+<!-- ## Courses I Can Teach and Develop
 
 My background in mechanics, materials, experimental methods, mechanobiology, and microfabrication allows me to contribute to both foundational engineering curricula and emerging interdisciplinary areas.
 
@@ -77,4 +86,5 @@ My background in mechanics, materials, experimental methods, mechanobiology, and
 - Microphysiological Systems
 - Biohybrid and Emergent Mechanical Systems
 
-I am particularly interested in developing courses that connect classical mechanics with modern experimental technologies and biological systems, allowing students to apply fundamental engineering principles to emerging problems in medicine, mechanobiology, and engineered living systems.
+I am particularly interested in developing courses that connect classical mechanics with modern experimental technologies and biological systems, allowing students to apply fundamental engineering principles to emerging problems in medicine, mechanobiology, and engineered living systems. 
+--> 
