@@ -1,12 +1,12 @@
----
-title: 
+<!---
+title: "University of Illinois Urbana-Champaign"
 collection: teaching
-type: 
+type: "Undergraduate courses"
 permalink: /teaching/UIUC
-venue: 
-date: 
-location: "Urbana, USA"
----
+venue: "UIUC, Mechanical Science & Engineering"
+date: 2026-06-01
+location: "Urbana, USA"  
+---> 
 
 My teaching philosophy is centered on developing students into independent problem solvers who approach engineering questions with the curiosity, rigor, and critical thinking of researchers. My approach combines clear instruction with active learning, hands-on experimentation, discussion, and collaborative problem solving. I adapt the style of instruction to the material and to students' real-time response, with student learning and skill development as the primary goals.
 
