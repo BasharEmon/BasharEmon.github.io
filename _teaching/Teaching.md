@@ -1,10 +1,10 @@
 ---
-title: "University of Illinois Urbana-Champaign"
+title: 
 collection: teaching
-type: "Undergraduate courses"
+type: 
 permalink: /teaching/UIUC
-venue: "UIUC, Mechanical Science & Engineering"
-date: 2026-06-01
+venue: 
+date: 
 location: "Urbana, USA"
 ---
 
