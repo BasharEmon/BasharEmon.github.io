@@ -2,7 +2,7 @@
 title: 
 collection: teaching
 type: 
-permalink: /teaching/UIUC
+permalink: /teaching/
 venue: 
 date: 
 location: 
