@@ -1,6 +1,6 @@
 ---
 title: "Bangladesh University of Engineering and Technology"
-collection: teaching
+<!-- collection: teaching -->
 type: "Undergraduate courses"
 permalink: /teaching/BUET
 venue: "BUET, Department of Civil Engineering"
