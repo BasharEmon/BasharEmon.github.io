@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Teaching\_full"
 collection: teaching
