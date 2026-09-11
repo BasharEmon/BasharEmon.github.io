@@ -7,7 +7,7 @@ excerpt: ''
 date: 2023-06-02
 venue: 'Scientific Data'
 paperurl: 'http://BasharEmon.github.io/files/Sci Data.pdf'
-citation: '<b>Emon, B.</b>, Song, Y.J., Joy, M.S.H. et al. Mechanosensitive changes in the expression of genes in colorectal cancer-associated fibroblasts. Sci Data 10, 350 (2023). https://doi.org/10.1038/s41597-023-02233-9'
+citation: '<b>B. Emon</b>, Y.J. Song, M.S.H. Joy et al. Mechanosensitive changes in the expression of genes in colorectal cancer-associated fibroblasts. Sci Data 10, 350 (2023). https://doi.org/10.1038/s41597-023-02233-9'
 
 ---
 
