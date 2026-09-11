@@ -14,7 +14,7 @@ In engineering courses, I particularly value connecting theory with physical obs
 
 ## Teaching and Laboratory Leadership at UIUC
 
-I currently serve as the **Lab Director** of the **Mechanical Testing Instructional Laboratory** at the University of Illinois Urbana-Champaign. In this role, I oversee a high-throughput instructional laboratory that annually supports approximately **1,200 student enrollments** and more than **400 laboratory sessions** across multiple engineering programs.
+I currently serve as the **Director of Mechanical Testing Instructional Laboratory** at the University of Illinois Urbana-Champaign. In this role, I oversee a high-throughput instructional laboratory that annually supports approximately **1,200 student enrollments** and more than **400 laboratory sessions** across multiple engineering programs.
 
 The laboratory supports courses including **ME 330, CEE 300/TAM 324, SE 312, AE 321/461, NPRE 432, MSE 308, and TAM 456**, providing students with hands-on experience in mechanical testing, materials characterization, experimental mechanics, and engineering measurement.
 
