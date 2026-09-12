@@ -54,6 +54,10 @@ Talks & presentations
 Teaching
 ======
 
+My teaching interests span mechanics, materials, experimental methods, and biomechanics, with particular emphasis on connecting fundamental mechanics to modern experimental technologies and biological systems. <br>
+**Core areas**: Mechanics of Materials, Engineering Materials, Experimental Mechanics, Finite Element Methods <br> 
+**Advanced topics**: Cellular Mechanobiology, Micro-Electro-Mechanical Systems (MEMS), Microphysiological Systems, Mechanics in Physiology & Pathology, and Emergent Biohybrid Systems
+
 I taught the following undergraduate courses as a faculty in the Department of Civil Engineering at Bangladesh University of Engineering & Technology:  
 * Mechanics of solids I & II
 * Engineering materials
@@ -62,10 +66,6 @@ I taught the following undergraduate courses as a faculty in the Department of C
 * Design of concrete structures
 * Dynamics of structures
 * Computer Aided Design
-
-My teaching interests span mechanics, materials, experimental methods, and biomechanics, with particular emphasis on connecting fundamental mechanics to modern experimental technologies and biological systems. <br>
-**Core areas**: Mechanics of Materials, Engineering Materials, Experimental Mechanics, Finite Element Methods <br> 
-**Advanced topics**: Cellular Mechanobiology, Micro-Electro-Mechanical Systems (MEMS), Microphysiological Systems, Mechanics in Physiology & Pathology, and Emergent Biohybrid Systems
 
 Service and leadership
 ======
