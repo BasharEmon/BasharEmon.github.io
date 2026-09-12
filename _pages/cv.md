@@ -53,20 +53,7 @@ Talks & presentations
   
 Teaching
 ======
-<!--
-<ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>                            
 
-<ul>
-  {% for post in site.teaching reversed %}
-    <li>
-      <strong>{{ post.title }}</strong><br />
-      {{ post.content | markdownify }}
-    </li>
-  {% endfor %}
-</ul>
--->
 I taught the following undergraduate courses as a faculty in the Department of Civil Engineering at Bangladesh University of Engineering & Technology:  
 * Mechanics of solids I & II
 * Engineering materials
