@@ -75,6 +75,10 @@ I taught the following undergraduate courses as a faculty in the Department of C
 * Dynamics of structures
 * Computer Aided Design
 
+My teaching interests span mechanics, materials, experimental methods, and biomechanics, with particular emphasis on connecting fundamental mechanics to modern experimental technologies and biological systems.
+**Core areas**: Mechanics of Materials, Engineering Materials, Experimental Mechanics, Finite Element Methods
+**Advanced topics**: Cellular Mechanobiology, Micro-Electro-Mechanical Systems (MEMS), Microphysiological Systems, Mechanics in Physiology & Pathology, and Emergent Biohybrid Systems
+
 Service and leadership
 ======
 * Review Editor: Frontiers in cell and developmental biology, 2023
