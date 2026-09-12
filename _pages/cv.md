@@ -45,7 +45,7 @@ Theses
 *	Bashar Emon (2014), “Study of Strength and Ductility of Galvanised Iron Wire Reinforced Concrete” <br>M. Sc. (Structural Engineering), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
 *	Bashar Emon (2012), “Analytical & computational investigation on lateral stiffness of shear walls with openings”, B. Sc. (Civil Engineering), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
 
-Talks & presentation
+Talks & presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
