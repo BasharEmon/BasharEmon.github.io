@@ -43,7 +43,7 @@ Theses
 ======
 *	Bashar Emon (2023), “Towards Understanding the Role of Cellular Force in Cancer Progression” <br>Ph. D. in Theoretical & Applied Mechanics, University of Illinois at Urbana-Champaign, Illinois, USA.
 *	Bashar Emon (2014), “Study of Strength and Ductility of Galvanised Iron Wire Reinforced Concrete” <br>M. Sc. (Structural Engineering), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
-*	Bashar Emon (2012), “Analytical & computational investigation on lateral stiffness of shear walls with openings”<br>B. Sc. (Civil Engineering), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+*	Bashar Emon (2012), “Analytical & computational investigation on lateral stiffness of shear walls with openings”, B. Sc. (Civil Engineering), Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
 
 Talks
 ======
@@ -55,7 +55,7 @@ Teaching
 ======
 <!--  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>                            -->
+  {% endfor %}</ul>                            
 
 <ul>
   {% for post in site.teaching reversed %}
@@ -65,7 +65,9 @@ Teaching
     </li>
   {% endfor %}
 </ul>
-  
+-->
+
+
 Service and leadership
 ======
 * Review Editor: Frontiers in cell and developmental biology, 2023
