@@ -66,7 +66,14 @@ Teaching
   {% endfor %}
 </ul>
 -->
-
+I taught the following undergraduate courses as a faculty in the Department of Civil Engineering at Bangladesh University of Engineering & Technology:  
+* Mechanics of solids I & II
+* Engineering materials
+* Numerical methods
+* Finite Element Methods
+* Design of concrete structures
+* Dynamics of structures
+* Computer Aided Design
 
 Service and leadership
 ======
