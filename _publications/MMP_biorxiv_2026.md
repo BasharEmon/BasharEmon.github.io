@@ -3,7 +3,7 @@ title: "CAF contractility controls collagen stiffness through history-dependent 
 collection: publications
 category: manuscripts
 permalink: /publication/MMP_biorxiv_2026
-excerpt: 'Here we reveal that CAF-generated force and matrix proteolysis act in opposition to dynamically regulate collagen stiffness, with suppression of actomyosin contractility shifting remodeling toward MMP-dependent softening and increased molecular transport. These findings reveal that tumor stromal mechanics are not fixed but are governed by a reversible, treatment-history-dependent balance between cellular force generation and enzymatic matrix remodeling, with implications for stromal-targeted therapy.'
+excerpt: 'Here we revealed that CAF-generated force and matrix proteolysis act in opposition to dynamically regulate collagen stiffness, with suppression of actomyosin contractility shifting remodeling toward MMP-dependent softening and increased molecular transport. These findings reveal that tumor stromal mechanics are not fixed but are governed by a reversible, treatment-history-dependent balance between cellular force generation and enzymatic matrix remodeling, with implications for stromal-targeted therapy.'
 date: 2026-09-22
 venue: 'bioRxiv-preprint'
 paperurl: 'http://BasharEmon.github.io/files/MMP_biorxiv.pdf'
