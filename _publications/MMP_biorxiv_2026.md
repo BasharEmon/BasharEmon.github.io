@@ -1,5 +1,4 @@
 ---
-
 title: "CAF contractility controls collagen stiffness through history-dependent competition between mechanical and proteolytic remodeling"
 collection: publications
 category: manuscripts
