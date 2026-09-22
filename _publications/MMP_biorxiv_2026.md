@@ -2,11 +2,11 @@
 title: "CAF contractility controls collagen stiffness through history-dependent competition between mechanical and proteolytic remodeling"
 collection: publications
 category: manuscripts
-permalink: /publication/MMP\_biorxiv\_2026
+permalink: /publication/MMP_biorxiv_2026
 excerpt: 'Here we reveal that CAF-generated force and matrix proteolysis act in opposition to dynamically regulate collagen stiffness, with suppression of actomyosin contractility shifting remodeling toward MMP-dependent softening and increased molecular transport. These findings reveal that tumor stromal mechanics are not fixed but are governed by a reversible, treatment-history-dependent balance between cellular force generation and enzymatic matrix remodeling, with implications for stromal-targeted therapy.'
 date: 2026-09-22
 venue: 'bioRxiv-preprint'
-paperurl: 'http://BasharEmon.github.io/files/MMP\_biorxiv.pdf'
+paperurl: 'http://BasharEmon.github.io/files/MMP_biorxiv.pdf'
 citation: '**B. Emon**, A. Kashefi, M.T.A. Saif, “CAF contractility controls collagen stiffness through history-dependent competition between mechanical and proteolytic remodeling”, bioRxiv (2026), https://doi.org/10.64898/2026.09.19.752881'
 ---
 
