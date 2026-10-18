@@ -100,7 +100,7 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
 
 <div class="research-links"
      style="display: flex; justify-content: center;
-            align-items: flex-start; gap: 6px;
+            align-items: flex-start; gap: 20px;
             margin-bottom: 1.5rem; flex-wrap: wrap;
             text-align: center;">
 
