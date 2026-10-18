@@ -145,3 +145,35 @@
   }
 }
 
+
+/* Latest News - light theme */
+.news-strip {
+  background: #f4f6f9;
+  color: #263746;
+}
+
+.news-label {
+  color: #1f4e79;
+}
+
+.news-items {
+  color: inherit;
+}
+
+/* Latest News - dark theme */
+html[data-theme="dark"] .news-strip {
+  background: #2b3543;
+  color: #f1f5f9;
+}
+
+html[data-theme="dark"] .news-label {
+  color: #9ed9ff;
+}
+
+html[data-theme="dark"] .news-items {
+  color: #f1f5f9;
+}
+
+html[data-theme="dark"] .news-items span::before {
+  color: #9ed9ff;
+}
