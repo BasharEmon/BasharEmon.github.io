@@ -41,3 +41,31 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+
+/* Mobile research image layout */
+@media (max-width: 650px) {
+  .research-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 6px;
+  }
+
+  .research-links > div {
+    flex: 0 0 calc(50% - 3px);
+    min-width: 0;
+    text-align: center;
+  }
+
+  .research-links img {
+    height: 110px !important;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .research-links strong {
+    font-size: 0.85rem;
+  }
+}
