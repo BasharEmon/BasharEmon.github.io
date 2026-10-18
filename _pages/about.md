@@ -95,8 +95,8 @@ redirect_from:
 
 overview 
 ------
-At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how mechanical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. 
-
+<!-- At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how mechanical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. -->
+I investigate how mechanical forces, stiffness, and microstructure govern cell and tissue behavior in health and disease. My research combines theoretical and experimental mechanics, mechanobiology, and microfabrication to study cellular mechanotransduction, tumor microenvironment mechanics, and technologies for diagnostics and therapeutics.
 
 <div class="research-links"
      style="display: flex; justify-content: center;
@@ -148,6 +148,45 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
     </a>
   </div>
 
+</div>
+
+
+<div class="news-strip">
+  <span class="news-label">Latest News</span>
+
+  <div class="news-window">
+    <div class="news-track">
+
+      <div class="news-items">
+        <span>
+          <b>Oct 2026:</b> Our team selected as a semifinalist
+          in the Grainger Engineering Tech Challenge.
+        </span>
+        <span>
+          <b>2026:</b> Biomechanical 3D tumor model study
+          published in Biofabrication.
+        </span>
+        <span>
+          <b>2026:</b> JoVE Methods Article accepted.
+        </span>
+      </div>
+
+      <div class="news-items" aria-hidden="true">
+        <span>
+          <b>Oct 2026:</b> Our team selected as a semifinalist
+          in the Grainger Engineering Tech Challenge.
+        </span>
+        <span>
+          <b>2026:</b> Biomechanical 3D tumor model study
+          published in Biofabrication.
+        </span>
+        <span>
+          <b>2026:</b> Platform talk on 'reversing tumor stiffening' at SES 2026
+        </span>
+      </div>
+
+    </div>
+  </div>
 </div>
 
 
