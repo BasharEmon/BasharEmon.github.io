@@ -128,26 +128,6 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
   margin: 0 auto;
 }
 
-@media (max-width: 650px) {
-  .research-links {
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 12px 8px;
-    height: auto;
-  }
-
-  .research-links > div {
-    width: calc(50% - 4px);
-  }
-
-  .research-links img {
-    height: 110px;
-    width: auto;
-    max-width: 100%;
-    object-fit: contain;
-  }
-}
-
 <div class="research-links">
 
   <div>
