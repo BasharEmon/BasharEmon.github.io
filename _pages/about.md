@@ -167,7 +167,7 @@ I investigate how mechanical forces, stiffness, and microstructure govern cell a
           published in Biofabrication.
         </span>
         <span>
-          <b>2026:</b> JoVE Methods Article accepted.
+          <b>2026:</b> Platform talk on 'reversing tumor stiffening' at SES 2026.
         </span>
       </div>
 
