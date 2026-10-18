@@ -97,39 +97,6 @@ overview
 ------
 At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how mechanical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. 
 
-
-<style>
-.research-links {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: flex-start;
-  gap: 8px;
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-.research-links > div {
-  min-width: 0;
-}
-
-.research-links strong {
-  display: block;
-  margin-bottom: 5px;
-  font-size: 0.9rem;
-}
-
-.research-links img {
-  height: 130px;
-  width: auto;
-  max-width: 100%;
-  object-fit: contain;
-  border-radius: 12px;
-  display: block;
-  margin: 0 auto;
-}
-
-<div class="research-links">
-
   <div>
     <strong>Innovation</strong>
     <a href="#innovation">
