@@ -97,42 +97,68 @@ overview
 ------
 At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how mechanical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. 
 
-<div style="display: flex; justify-content: space-around; gap: 20px; margin-bottom: 2rem; flex-wrap: wrap; text-align: center;">
+
+<style>
+.research-links {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  align-items: start;
+}
+
+.research-links img {
+  width: 100%;
+  height: 110px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.research-links strong {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 600px) {
+  .research-links {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+</style>
+
+<div class="research-links">
 
   <div>
-    <div><strong>Innovation</strong></div>
+    <strong>Innovation</strong>
     <a href="#innovation">
-      <img src="/images/CAF force timelapse.gif" alt="innovation"
-           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+      <img src="/images/CAF force timelapse.gif" alt="Innovation">
     </a>
   </div>
 
   <div>
-    <div><strong>Mechanotransduction</strong></div>
+    <strong>Mechanotransduction</strong>
     <a href="#mechanotransduction">
-      <img src="/images/YAP animation_3.gif" alt="mechanotransduction"
-           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+      <img src="/images/YAP animation_3.gif" alt="Mechanotransduction">
     </a>
   </div>
 
   <div>
-    <div><strong>Neuromechanics</strong></div>
+    <strong>Neuromechanics</strong>
     <a href="#neuromechanics">
-      <img src="/images/Neuron actin.gif" alt="neuromechanics"
-           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+      <img src="/images/Neuron actin.gif" alt="Neuromechanics">
     </a>
   </div>
 
   <div>
-    <div><strong>Translation</strong></div>
+    <strong>Translation</strong>
     <a href="#translation">
-      <img src="/images/Translation_image.png" alt="translation"
-           style="height: 150px; width: auto; object-fit: contain; border-radius: 12px;">
+      <img src="/images/Translation_image.png" alt="Translation">
     </a>
   </div>
 
 </div>
-
 
 
 <div id="innovation" style="position: relative; top: -60px;"></div>
