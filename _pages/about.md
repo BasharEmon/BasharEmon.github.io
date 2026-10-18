@@ -97,35 +97,54 @@ overview
 ------
 At the intersection of mechanics and medicine, my research draws inspiration from the physical forces that underpin the rules of life. Trained in both theoretical and experimental mechanics, I explore how forces, stiffness, and microstructure govern cell and tissue behavior in both health and disease. My work uncovers how mechanical forces control cellular signaling, how the tumor microenvironment (TME) evolves biomechanically, and how these insights can be leveraged to develop technologies for diagnostics, therapeutics, and personalized medicine. I use tools from mechanobiology, microfabrication, and machine learning to drive this scientific pursuit. 
 
-  <div>
-    <strong>Innovation</strong>
+
+<div class="research-links"
+     style="display: flex; justify-content: center;
+            align-items: flex-start; gap: 6px;
+            margin-bottom: 1.5rem; flex-wrap: wrap;
+            text-align: center;">
+
+  <div style="min-width: 0;">
+    <div><strong>Innovation</strong></div>
     <a href="#innovation">
       <img src="/images/CAF force timelapse.gif"
-           alt="Innovation">
+           alt="Innovation"
+           style="height: 130px; width: auto;
+                  max-width: 100%; object-fit: contain;
+                  border-radius: 12px;">
     </a>
   </div>
 
-  <div>
-    <strong>Mechanotransduction</strong>
+  <div style="min-width: 0;">
+    <div><strong>Mechanotransduction</strong></div>
     <a href="#mechanotransduction">
       <img src="/images/YAP animation_3.gif"
-           alt="Mechanotransduction">
+           alt="Mechanotransduction"
+           style="height: 130px; width: auto;
+                  max-width: 100%; object-fit: contain;
+                  border-radius: 12px;">
     </a>
   </div>
 
-  <div>
-    <strong>Neuromechanics</strong>
+  <div style="min-width: 0;">
+    <div><strong>Neuromechanics</strong></div>
     <a href="#neuromechanics">
       <img src="/images/Neuron actin.gif"
-           alt="Neuromechanics">
+           alt="Neuromechanics"
+           style="height: 130px; width: auto;
+                  max-width: 100%; object-fit: contain;
+                  border-radius: 12px;">
     </a>
   </div>
 
-  <div>
-    <strong>Translation</strong>
+  <div style="min-width: 0;">
+    <div><strong>Translation</strong></div>
     <a href="#translation">
       <img src="/images/Translation_image.png"
-           alt="Translation">
+           alt="Translation"
+           style="height: 130px; width: auto;
+                  max-width: 100%; object-fit: contain;
+                  border-radius: 12px;">
     </a>
   </div>
 
