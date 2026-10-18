@@ -100,19 +100,16 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
 
 <style>
 .research-links {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 12px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  gap: 8px;
   margin-bottom: 1.5rem;
   text-align: center;
-  align-items: start;
 }
 
-.research-links img {
-  width: 100%;
-  height: 110px;
-  object-fit: contain;
-  border-radius: 10px;
+.research-links > div {
+  min-width: 0;
 }
 
 .research-links strong {
@@ -121,9 +118,25 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
   font-size: 0.9rem;
 }
 
-@media (max-width: 600px) {
+.research-links img {
+  height: 130px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 650px) {
   .research-links {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 8px;
+  }
+
+  .research-links > div {
+    width: calc(50% - 4px);
   }
 }
 </style>
@@ -133,28 +146,32 @@ At the intersection of mechanics and medicine, my research draws inspiration fro
   <div>
     <strong>Innovation</strong>
     <a href="#innovation">
-      <img src="/images/CAF force timelapse.gif" alt="Innovation">
+      <img src="/images/CAF force timelapse.gif"
+           alt="Innovation">
     </a>
   </div>
 
   <div>
     <strong>Mechanotransduction</strong>
     <a href="#mechanotransduction">
-      <img src="/images/YAP animation_3.gif" alt="Mechanotransduction">
+      <img src="/images/YAP animation_3.gif"
+           alt="Mechanotransduction">
     </a>
   </div>
 
   <div>
     <strong>Neuromechanics</strong>
     <a href="#neuromechanics">
-      <img src="/images/Neuron actin.gif" alt="Neuromechanics">
+      <img src="/images/Neuron actin.gif"
+           alt="Neuromechanics">
     </a>
   </div>
 
   <div>
     <strong>Translation</strong>
     <a href="#translation">
-      <img src="/images/Translation_image.png" alt="Translation">
+      <img src="/images/Translation_image.png"
+           alt="Translation">
     </a>
   </div>
 
