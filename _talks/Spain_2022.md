@@ -7,7 +7,6 @@ venue: "Mechanobiology of Cancer Summer School"
 date: 2022-09-27
 location: "Prullans, Barcelona, Spain"
 ---
-
 <div style="font-size: 0.8rem;">
 The MECHANOCONTROL consortium in Europe hosted the “Mechanobiology of Cancer” summer school at the Eco Resort in La Cerdanya, Spain.
 The summer school provided training on mechanobiology and its application to cancer, incluiding lectures and practical workshops ranging from modeling to biomechanics to cancer biology.
