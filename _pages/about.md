@@ -95,7 +95,7 @@ redirect_from:
 
 
 <div class="news-strip">
-  <span class="news-label">Latest News</span>
+  <span class="news-label">Latest Updates</span>
 
   <div class="news-window">
     <div class="news-track">
